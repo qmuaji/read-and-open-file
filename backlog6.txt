@@ -1,0 +1,435 @@
+================= ocsrbplgpapp1 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB001
+< 769360, 436532760, Checkpoint                    , plrb001ds.ds1 >
+< 769375, 730996976, Checkpoint                    , plrb001ds.ds0 >
+< 769392, 442926016, XLA                           , tksrb011_DSN_TRB501 >
+< 769392, 473887456, XLA                           , tksrb011_DSN501 >
+< 769392, 474262680, Replication                   , 10.24.133.24:PLRB001DS >
+ 
+DSN: PLRB002
+< 773351, 451000136, Checkpoint                    , plrb002ds.ds0 >
+< 773367, 649818672, Checkpoint                    , plrb002ds.ds1 >
+< 773375, 7053936, XLA                           , tksrb011_DSN_TRB502 >
+< 773375, 20887080, XLA                           , tksrb011_DSN502 >
+< 773375, 21613336, Replication                   , 10.24.133.25:PLRB002DS >
+ 
+DSN: PLRB003
+< 713038, 529662720, Checkpoint                    , plrb003ds.ds0 >
+< 713051, 855126304, Checkpoint                    , plrb003ds.ds1 >
+< 713065, 431270032, XLA                           , tksrb011_DSN503 >
+< 713065, 431270032, XLA                           , tksrb011_DSN_TRB503 >
+< 713065, 496477048, Replication                   , 10.24.133.24:PLRB003DS >
+ 
+DSN: PLRB006
+< 706196, 509040744, Checkpoint                    , plrb006ds.ds1 >
+< 706209, 750956064, Checkpoint                    , plrb006ds.ds0 >
+< 706221, 765642600, XLA                           , tksrb011_DSN506 >
+< 706221, 765642600, XLA                           , tksrb011_DSN_TRB506 >
+< 706221, 849747272, Replication                   , 10.24.133.25:PLRB006DS >
+================= ocsrbplgpapp2 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB003
+< 762564, 747876856, Checkpoint                    , plrb003ds.ds0 >
+< 762578, 982224984, Checkpoint                    , plrb003ds.ds1 >
+< 762589, 1023729872, XLA                           , tksrb031_DSN_TRB503 >
+< 762589, 1031285760, XLA                           , tksrb031_DSN503 >
+< 762589, 1031542608, Replication                   , 10.24.133.23:PLRB003DS >
+ 
+DSN: PLRB004
+< 757946, 720553400, Checkpoint                    , plrb004ds.ds1 >
+< 757962, 168444736, Checkpoint                    , plrb004ds.ds0 >
+< 757967, 205861936, Replication                   , 10.24.133.25:PLRB004DS >
+< 757967, 206177480, XLA                           , tksrb031_DSN_TRB504 >
+< 757967, 208323392, XLA                           , tksrb031_DSN504 >
+ 
+DSN: PLRB001
+< 717525, 424037120, Checkpoint                    , plrb001ds.ds1 >
+< 717539, 785433768, Checkpoint                    , plrb001ds.ds0 >
+< 717553, 313273040, XLA                           , tksrb031_DSN501 >
+< 717553, 313273040, XLA                           , tksrb031_DSN_TRB501 >
+< 717553, 384129536, Replication                   , 10.24.133.23:PLRB001DS >
+ 
+DSN: PLRB005
+< 707563, 317921496, Checkpoint                    , plrb005ds.ds0 >
+< 707576, 388293480, Checkpoint                    , plrb005ds.ds1 >
+< 707588, 664843472, XLA                           , tksrb031_DSN505 >
+< 707588, 664843472, XLA                           , tksrb031_DSN_TRB505 >
+< 707588, 733060184, Replication                   , 10.24.133.25:PLRB005DS >
+================= ocsrbplgpapp3 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB005
+< 757772, 485279232, Checkpoint                    , plrb005ds.ds1 >
+< 757786, 479523176, Checkpoint                    , plrb005ds.ds0 >
+< 757792, 489673192, XLA                           , tksrb051_DSN_TRB505 >
+< 757792, 515145016, XLA                           , tksrb051_DSN505 >
+< 757792, 515365368, Replication                   , 10.24.133.24:PLRB005DS >
+ 
+DSN: PLRB006
+< 756600, 656061120, Checkpoint                    , plrb006ds.ds0 >
+< 756614, 729746736, Checkpoint                    , plrb006ds.ds1 >
+< 756629, 362368880, XLA                           , tksrb051_DSN_TRB506 >
+< 756629, 364772304, Replication                   , 10.24.133.23:PLRB006DS >
+< 756629, 364772304, XLA                           , tksrb051_DSN506 >
+ 
+DSN: PLRB002
+< 755258, 30321880, Checkpoint                    , plrb002ds.ds0 >
+< 755272, 730899848, Checkpoint                    , plrb002ds.ds1 >
+< 755286, 512263528, XLA                           , tksrb051_DSN502 >
+< 755286, 512263528, XLA                           , tksrb051_DSN_TRB502 >
+< 755286, 582243256, Replication                   , 10.24.133.23:PLRB002DS >
+ 
+DSN: PLRB004
+< 740116, 1043389328, Checkpoint                    , plrb004ds.ds1 >
+< 740130, 654173240, Checkpoint                    , plrb004ds.ds0 >
+< 740143, 740880816, XLA                           , tksrb051_DSN504 >
+< 740143, 740880816, XLA                           , tksrb051_DSN_TRB504 >
+< 740143, 821997256, Replication                   , 10.24.133.24:PLRB004DS >
+================= ocsrbplgpapp4 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB007
+< 768684, 637557736, Checkpoint                    , plrb007ds.ds1 >
+< 768699, 923189536, Checkpoint                    , plrb007ds.ds0 >
+< 768716, 946234616, XLA                           , tksrb071_DSN_TRB507 >
+< 768716, 986728360, XLA                           , tksrb071_DSN507 >
+< 768716, 987584664, Replication                   , 10.24.133.27:PLRB007DS >
+ 
+DSN: PLRB008
+< 761580, 513542664, Checkpoint                    , plrb008ds.ds1 >
+< 761596, 375643208, Checkpoint                    , plrb008ds.ds0 >
+< 761603, 626422104, XLA                           , tksrb071_DSN_TRB508 >
+< 761603, 669399696, XLA                           , tksrb071_DSN508 >
+< 761603, 669779096, Replication                   , 10.24.133.28:PLRB008DS >
+ 
+DSN: PLRB009
+< 703051, 35108192, Checkpoint                    , plrb009ds.ds1 >
+< 703064, 221317960, Checkpoint                    , plrb009ds.ds0 >
+< 703076, 706889344, XLA                           , tksrb071_DSN509 >
+< 703076, 706889344, XLA                           , tksrb071_DSN_TRB509 >
+< 703076, 753146672, Replication                   , 10.24.133.27:PLRB009DS >
+ 
+DSN: PLRB012
+< 720058, 1019930656, Checkpoint                    , plrb012ds.ds1 >
+< 720072, 949647848, Checkpoint                    , plrb012ds.ds0 >
+< 720089, 56580096, XLA                           , tksrb071_DSN512 >
+< 720089, 56580096, XLA                           , tksrb071_DSN_TRB512 >
+< 720089, 136663616, Replication                   , 10.24.133.28:PLRB012DS >
+================= ocsrbplgpapp5 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB009
+< 752611, 102031056, Checkpoint                    , plrb009ds.ds0 >
+< 752625, 253477000, Checkpoint                    , plrb009ds.ds1 >
+< 752636, 212680960, XLA                           , tksrb091_DSN_TRB509 >
+< 752636, 236016664, XLA                           , tksrb091_DSN509 >
+< 752636, 236896256, Replication                   , 10.24.133.26:PLRB009DS >
+ 
+DSN: PLRB010
+< 758977, 659616000, Checkpoint                    , plrb010ds.ds1 >
+< 758993, 238907384, Checkpoint                    , plrb010ds.ds0 >
+< 758998, 996322448, XLA                           , tksrb091_DSN_TRB510 >
+< 758998, 1012331376, Replication                   , 10.24.133.28:PLRB010DS >
+< 758998, 1012354984, XLA                           , tksrb091_DSN510 >
+ 
+DSN: PLRB007
+< 718752, 792873944, Checkpoint                    , plrb007ds.ds1 >
+< 718767, 180843888, Checkpoint                    , plrb007ds.ds0 >
+< 718782, 585997952, XLA                           , tksrb091_DSN507 >
+< 718782, 585997952, XLA                           , tksrb091_DSN_TRB507 >
+< 718782, 648644776, Replication                   , 10.24.133.26:PLRB007DS >
+ 
+DSN: PLRB011
+< 709785, 296408992, Checkpoint                    , plrb011ds.ds0 >
+< 709799, 546193176, Checkpoint                    , plrb011ds.ds1 >
+< 709802, 240515008, XLA                           , tksrb091_DSN511 >
+< 709802, 240515008, XLA                           , tksrb091_DSN_TRB511 >
+< 709802, 308575288, Replication                   , 10.24.133.28:PLRB011DS >
+================= ocsrbplgpapp6 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB011
+< 759328, 2973440, Checkpoint                    , plrb011ds.ds1 >
+< 759343, 175684808, Checkpoint                    , plrb011ds.ds0 >
+< 759349, 735626280, XLA                           , tksrb111_DSN_TRB511 >
+< 759349, 746416640, XLA                           , tksrb111_DSN511 >
+< 759349, 747658648, Replication                   , 10.24.133.27:PLRB011DS >
+ 
+DSN: PLRB012
+< 769834, 765740504, Checkpoint                    , plrb012ds.ds0 >
+< 769850, 32453088, Checkpoint                    , plrb012ds.ds1 >
+< 769864, 226987304, XLA                           , tksrb111_DSN_TRB512 >
+< 769864, 246649040, XLA                           , tksrb111_DSN512 >
+< 769864, 247558584, Replication                   , 10.24.133.26:PLRB012DS >
+ 
+DSN: PLRB008
+< 711779, 100168040, Checkpoint                    , plrb008ds.ds1 >
+< 711793, 402347616, Checkpoint                    , plrb008ds.ds0 >
+< 711807, 507201200, XLA                           , tksrb111_DSN508 >
+< 711807, 507201200, XLA                           , tksrb111_DSN_TRB508 >
+< 711807, 600621632, Replication                   , 10.24.133.26:PLRB008DS >
+ 
+DSN: PLRB010
+< 709509, 827969896, Checkpoint                    , plrb010ds.ds0 >
+< 709523, 357937656, Checkpoint                    , plrb010ds.ds1 >
+< 709539, 108767936, XLA                           , tksrb111_DSN510 >
+< 709539, 108767936, XLA                           , tksrb111_DSN_TRB510 >
+< 709539, 179250064, Replication                   , 10.24.133.27:PLRB010DS >
+================= ocsrbplgpapp7 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB013
+< 773725, 622402304, Checkpoint                    , plrb013ds.ds1 >
+< 773740, 143178488, Checkpoint                    , plrb013ds.ds0 >
+< 773756, 264301712, XLA                           , tksrb131_DSN_TRB513 >
+< 773756, 273535432, XLA                           , tksrb131_DSN513 >
+< 773756, 275039264, Replication                   , 10.24.133.30:PLRB013DS >
+ 
+DSN: PLRB014
+< 768346, 37309496, Checkpoint                    , plrb014ds.ds0 >
+< 768359, 880931864, Checkpoint                    , plrb014ds.ds1 >
+< 768369, 612967680, XLA                           , tksrb131_DSN_TRB514 >
+< 768369, 690329680, XLA                           , tksrb131_DSN514 >
+< 768369, 690983136, Replication                   , 10.24.133.31:PLRB014DS >
+ 
+DSN: PLRB015
+< 698837, 234951936, Checkpoint                    , plrb015ds.ds1 >
+< 698850, 424337576, Checkpoint                    , plrb015ds.ds0 >
+< 698853, 814641320, XLA                           , tksrb131_DSN515 >
+< 698853, 814641320, XLA                           , tksrb131_DSN_TRB515 >
+< 698853, 891062552, Replication                   , 10.24.133.30:PLRB015DS >
+ 
+DSN: PLRB018
+< 720532, 441166136, Checkpoint                    , plrb018ds.ds0 >
+< 720546, 790358440, Checkpoint                    , plrb018ds.ds1 >
+< 720549, 823709448, XLA                           , tksrb131_DSN518 >
+< 720549, 823709448, XLA                           , tksrb131_DSN_TRB518 >
+< 720549, 888916136, Replication                   , 10.24.133.31:PLRB018DS >
+================= ocsrbplgpapp8 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB015
+< 748481, 427193104, Checkpoint                    , plrb015ds.ds1 >
+< 748495, 286065752, Checkpoint                    , plrb015ds.ds0 >
+< 748505, 1020152592, XLA                           , tksrb151_DSN_TRB515 >
+< 748505, 1037743560, XLA                           , tksrb151_DSN515 >
+< 748505, 1037995208, Replication                   , 10.24.133.29:PLRB015DS >
+ 
+DSN: PLRB016
+< 778205, 250839968, Checkpoint                    , plrb016ds.ds1 >
+< 778220, 874946616, Checkpoint                    , plrb016ds.ds0 >
+< 778226, 489397616, XLA                           , tksrb151_DSN_TRB516 >
+< 778226, 519812456, XLA                           , tksrb151_DSN516 >
+< 778226, 520998960, Replication                   , 10.24.133.31:PLRB016DS >
+ 
+DSN: PLRB013
+< 722565, 121461064, Checkpoint                    , plrb013ds.ds1 >
+< 722578, 887504664, Checkpoint                    , plrb013ds.ds0 >
+< 722594, 182162184, XLA                           , tksrb151_DSN513 >
+< 722594, 182162184, XLA                           , tksrb151_DSN_TRB513 >
+< 722594, 237932200, Replication                   , 10.24.133.29:PLRB013DS >
+ 
+DSN: PLRB017
+< 712214, 489261736, Checkpoint                    , plrb017ds.ds0 >
+< 712228, 536877320, Checkpoint                    , plrb017ds.ds1 >
+< 712231, 836961888, XLA                           , tksrb151_DSN517 >
+< 712231, 836961888, XLA                           , tksrb151_DSN_TRB517 >
+< 712231, 892988120, Replication                   , 10.24.133.31:PLRB017DS >
+================= ocsrbplgpapp9 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB017
+< 759548, 435548840, Checkpoint                    , plrb017ds.ds1 >
+< 759563, 387399176, Checkpoint                    , plrb017ds.ds0 >
+< 759569, 866846688, XLA                           , tksrb171_DSN_TRB517 >
+< 759569, 912612328, Replication                   , 10.24.133.30:PLRB017DS >
+< 759569, 912612328, XLA                           , tksrb171_DSN517 >
+ 
+DSN: PLRB018
+< 770092, 109998544, Checkpoint                    , plrb018ds.ds1 >
+< 770107, 962664096, Checkpoint                    , plrb018ds.ds0 >
+< 770122, 800457984, XLA                           , tksrb171_DSN_TRB518 >
+< 770122, 806429432, XLA                           , tksrb171_DSN518 >
+< 770122, 807084424, Replication                   , 10.24.133.29:PLRB018DS >
+ 
+DSN: PLRB014
+< 717619, 565270400, Checkpoint                    , plrb014ds.ds0 >
+< 717632, 900975608, Checkpoint                    , plrb014ds.ds1 >
+< 717641, 650902680, XLA                           , tksrb171_DSN514 >
+< 717641, 650902680, XLA                           , tksrb171_DSN_TRB514 >
+< 717641, 711932096, Replication                   , 10.24.133.29:PLRB014DS >
+ 
+DSN: PLRB016
+< 728379, 988096464, Checkpoint                    , plrb016ds.ds1 >
+< 728393, 553074688, Checkpoint                    , plrb016ds.ds0 >
+< 728404, 577314776, XLA                           , tksrb171_DSN516 >
+< 728404, 577314776, XLA                           , tksrb171_DSN_TRB516 >
+< 728404, 654564144, Replication                   , 10.24.133.30:PLRB016DS >
+================= ocsrbplgpapp10 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB019
+< 716334, 690140536, Checkpoint                    , plrb019ds.ds1 >
+< 716348, 982798912, Checkpoint                    , plrb019ds.ds0 >
+< 716364, 778404224, XLA                           , tksrb191_DSN_TRB519 >
+< 716364, 801292864, XLA                           , tksrb191_DSN519 >
+< 716364, 802013240, Replication                   , 10.24.133.33:PLRB019DS >
+ 
+DSN: PLRB020
+< 722317, 861036296, Checkpoint                    , plrb020ds.ds1 >
+< 722332, 222332544, Checkpoint                    , plrb020ds.ds0 >
+< 722341, 858776392, XLA                           , tksrb191_DSN_TRB520 >
+< 722341, 873499048, Replication                   , 10.24.133.34:PLRB020DS >
+< 722341, 873691432, XLA                           , tksrb191_DSN520 >
+ 
+DSN: PLRB021
+< 742428, 461391440, Checkpoint                    , plrb021ds.ds1 >
+< 742442, 265783976, Checkpoint                    , plrb021ds.ds0 >
+< 742458, 693221072, XLA                           , tksrb191_DSN521 >
+< 742458, 693221072, XLA                           , tksrb191_DSN_TRB521 >
+< 742458, 787346848, Replication                   , 10.24.133.33:PLRB021DS >
+ 
+DSN: PLRB024
+< 725809, 636929024, Checkpoint                    , plrb024ds.ds1 >
+< 725823, 383437416, Checkpoint                    , plrb024ds.ds0 >
+< 725827, 287935024, XLA                           , tksrb191_DSN524 >
+< 725827, 287935024, XLA                           , tksrb191_DSN_TRB524 >
+< 725827, 349969480, Replication                   , 10.24.133.34:PLRB024DS >
+================= ocsrbplgpapp11 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB021
+< 753693, 206197952, Checkpoint                    , plrb021ds.ds0 >
+< 753707, 1000119280, Checkpoint                    , plrb021ds.ds1 >
+< 753719, 349318760, XLA                           , tksrb211_DSN_TRB521 >
+< 753719, 381550648, XLA                           , tksrb211_DSN521 >
+< 753719, 382482480, Replication                   , 10.24.133.32:PLRB021DS >
+ 
+DSN: PLRB022
+< 759346, 745829808, Checkpoint                    , plrb022ds.ds0 >
+< 759363, 341717504, Checkpoint                    , plrb022ds.ds1 >
+< 759368, 994614672, XLA                           , tksrb211_DSN522 >
+< 759368, 994769416, XLA                           , tksrb211_DSN_TRB522 >
+< 759368, 994891560, Replication                   , 10.24.133.34:PLRB022DS >
+ 
+DSN: PLRB019
+< 705748, 254408744, Checkpoint                    , plrb019ds.ds0 >
+< 705761, 701449072, Checkpoint                    , plrb019ds.ds1 >
+< 705777, 532496728, XLA                           , tksrb211_DSN519 >
+< 705777, 532496728, XLA                           , tksrb211_DSN_TRB519 >
+< 705777, 615668920, Replication                   , 10.24.133.32:PLRB019DS >
+ 
+DSN: PLRB023
+< 741863, 288194960, Checkpoint                    , plrb023ds.ds1 >
+< 741876, 691198048, Checkpoint                    , plrb023ds.ds0 >
+< 741888, 954871392, XLA                           , tksrb211_DSN523 >
+< 741888, 954871392, XLA                           , tksrb211_DSN_TRB523 >
+< 741888, 1025387288, Replication                   , 10.24.133.34:PLRB023DS >
+================= ocsrbplgpapp12 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB023
+< 751233, 765521880, Checkpoint                    , plrb023ds.ds1 >
+< 751248, 113247320, Checkpoint                    , plrb023ds.ds0 >
+< 751254, 429321360, XLA                           , tksrb231_DSN_TRB523 >
+< 751254, 449288696, XLA                           , tksrb231_DSN523 >
+< 751254, 449421200, Replication                   , 10.24.133.33:PLRB023DS >
+ 
+DSN: PLRB024
+< 750219, 205915352, Checkpoint                    , plrb024ds.ds1 >
+< 750234, 724498576, Checkpoint                    , plrb024ds.ds0 >
+< 750249, 430533392, XLA                           , tksrb231_DSN_TRB524 >
+< 750249, 451331056, XLA                           , tksrb231_DSN524 >
+< 750249, 451398344, Replication                   , 10.24.133.32:PLRB024DS >
+ 
+DSN: PLRB020
+< 697331, 366836864, Checkpoint                    , plrb020ds.ds1 >
+< 697345, 67307024, Checkpoint                    , plrb020ds.ds0 >
+< 697360, 416133264, XLA                           , tksrb231_DSN520 >
+< 697360, 416133264, XLA                           , tksrb231_DSN_TRB520 >
+< 697360, 474064560, Replication                   , 10.24.133.32:PLRB020DS >
+ 
+DSN: PLRB022
+< 748875, 476254608, Checkpoint                    , plrb022ds.ds1 >
+< 748889, 880223200, Checkpoint                    , plrb022ds.ds0 >
+< 748892, 492724080, XLA                           , tksrb231_DSN522 >
+< 748892, 492724080, XLA                           , tksrb231_DSN_TRB522 >
+< 748892, 554295696, Replication                   , 10.24.133.33:PLRB022DS >
+================= ocsrbplgpapp13 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB025
+< 744733, 807521320, Checkpoint                    , plrb025ds.ds0 >
+< 744749, 907428488, Checkpoint                    , plrb025ds.ds1 >
+< 744767, 895992152, XLA                           , tksrb251_DSN_TRB525 >
+< 744767, 932234536, XLA                           , tksrb251_DSN525 >
+< 744767, 932372064, Replication                   , 10.24.133.36:PLRB025DS >
+ 
+DSN: PLRB026
+< 743934, 646407080, Checkpoint                    , plrb026ds.ds1 >
+< 743949, 893585208, Checkpoint                    , plrb026ds.ds0 >
+< 743958, 1030974960, XLA                           , tksrb251_DSN_TRB526 >
+< 743959, 22936104, XLA                           , tksrb251_DSN526 >
+< 743959, 23014808, Replication                   , 10.24.133.37:PLRB026DS >
+ 
+DSN: PLRB027
+< 738530, 595309288, Checkpoint                    , plrb027ds.ds1 >
+< 738544, 995890640, Checkpoint                    , plrb027ds.ds0 >
+< 738553, 413708848, XLA                           , tksrb251_DSN527 >
+< 738553, 413708848, XLA                           , tksrb251_DSN_TRB527 >
+< 738553, 501937232, Replication                   , 10.24.133.36:PLRB027DS >
+ 
+DSN: PLRB030
+< 747480, 1030094400, Checkpoint                    , plrb030ds.ds0 >
+< 747495, 728934168, Checkpoint                    , plrb030ds.ds1 >
+< 747504, 683429992, XLA                           , tksrb251_DSN530 >
+< 747504, 683429992, XLA                           , tksrb251_DSN_TRB530 >
+< 747504, 764086440, Replication                   , 10.24.133.37:PLRB030DS >
+================= ocsrbplgpapp14 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB027
+< 762062, 905408784, Checkpoint                    , plrb027ds.ds0 >
+< 762078, 195834448, Checkpoint                    , plrb027ds.ds1 >
+< 762090, 13408064, XLA                           , tksrb271_DSN_TRB527 >
+< 762090, 50724144, XLA                           , tksrb271_DSN527 >
+< 762090, 51319376, Replication                   , 10.24.133.35:PLRB027DS >
+ 
+DSN: PLRB028
+< 761160, 908299656, Checkpoint                    , plrb028ds.ds0 >
+< 761174, 485461760, Checkpoint                    , plrb028ds.ds1 >
+< 761193, 963907376, XLA                           , tksrb271_DSN_TRB528 >
+< 761193, 1003293440, Replication                   , 10.24.133.37:PLRB028DS >
+< 761193, 1003309760, XLA                           , tksrb271_DSN528 >
+ 
+DSN: PLRB025
+< 720471, 532092456, Checkpoint                    , plrb025ds.ds1 >
+< 720486, 821317776, Checkpoint                    , plrb025ds.ds0 >
+< 720499, 961012624, XLA                           , tksrb271_DSN525 >
+< 720499, 961012624, XLA                           , tksrb271_DSN_TRB525 >
+< 720500, 19392064, Replication                   , 10.24.133.35:PLRB025DS >
+ 
+DSN: PLRB029
+< 755499, 279945696, Checkpoint                    , plrb029ds.ds0 >
+< 755512, 651733912, Checkpoint                    , plrb029ds.ds1 >
+< 755521, 503166656, XLA                           , tksrb271_DSN529 >
+< 755521, 503166656, XLA                           , tksrb271_DSN_TRB529 >
+< 755521, 571862456, Replication                   , 10.24.133.37:PLRB029DS >
+================= ocsrbplgpapp15 Wed May 18 13:02:55 wib 2016 =================
+ 
+DSN: PLRB029
+< 765046, 209815192, Checkpoint                    , plrb029ds.ds0 >
+< 765060, 516070816, Checkpoint                    , plrb029ds.ds1 >
+< 765066, 720461904, XLA                           , tksrb291_DSN_TRB529 >
+< 765066, 851995552, XLA                           , tksrb291_DSN529 >
+< 765066, 852542648, Replication                   , 10.24.133.36:PLRB029DS >
+ 
+DSN: PLRB030
+< 771263, 558197520, Checkpoint                    , plrb030ds.ds0 >
+< 771279, 558635768, Checkpoint                    , plrb030ds.ds1 >
+< 771295, 439044944, XLA                           , tksrb291_DSN_TRB530 >
+< 771295, 454049240, Replication                   , 10.24.133.35:PLRB030DS >
+< 771295, 456018424, XLA                           , tksrb291_DSN530 >
+ 
+DSN: PLRB026
+< 719778, 112405280, Checkpoint                    , plrb026ds.ds1 >
+< 719792, 954562744, Checkpoint                    , plrb026ds.ds0 >
+< 719803, 188402952, XLA                           , tksrb291_DSN526 >
+< 719803, 188402952, XLA                           , tksrb291_DSN_TRB526 >
+< 719803, 280168216, Replication                   , 10.24.133.35:PLRB026DS >
+ 
+DSN: PLRB028
+< 750444, 963140848, Checkpoint                    , plrb028ds.ds0 >
+< 750458, 602130408, Checkpoint                    , plrb028ds.ds1 >
+< 750468, 118611904, XLA                           , tksrb291_DSN528 >
+< 750468, 118611904, XLA                           , tksrb291_DSN_TRB528 >
+< 750468, 176662312, Replication                   , 10.24.133.36:PLRB028DS >

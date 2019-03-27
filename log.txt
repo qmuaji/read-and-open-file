@@ -1,0 +1,624 @@
+rbs-siapp44 Fri Nov 20 11:02:39 wib 2015 
+DSN: PPRB11
+< 149463, 180408080, XLA                           , tksrb831_DSN_TRB885 >
+< 149453, 132686232, Checkpoint                    , pprb11ds.ds0 >
+< 149463, 192101176, XLA                           , tksrb831_DSN885 >
+< 149460, 405819504, Checkpoint                    , pprb11ds.ds1 >
+< 149463, 192292312, Replication                   , 10.37.1.117:PPRB11DS >
+
+rbs-siapp44 Sun Dec 6 06:02:59 wib 2015 
+DSN: PPRB11
+< 152857, 576372776, Replication                   , 10.37.1.117:PPRB11DS >
+< 152857, 91215256, Checkpoint                    , pprb11ds.ds0 >
+< 152858, 650724136, Checkpoint                    , pprb11ds.ds1 >
+< 152859, 401352264, XLA                           , tksrb831_DSN_TRB885 >
+< 152859, 402175160, XLA                           , tksrb831_DSN885 >
+
+rbs-siapp44 Sun Dec 6 06:22:08 WIB 2015
+DSN: PPRB11
+< 152858, 650724136, Checkpoint                    , pprb11ds.ds1 >
+< 152858, 263490536, Replication                   , 10.37.1.117:PPRB11DS >
+< 152860, 539800856, Checkpoint                    , pprb11ds.ds0 >
+< 152860, 681014640, XLA                           , tksrb831_DSN885 >
+< 152860, 681050712, XLA                           , tksrb831_DSN_TRB885 >
+
+ocsrbsrbpapp23 Thu Dec 10 23:04:10 wib 2015 
+DSN: SBRB045
+< 2812, 810654032, Replication                   , 10.76.133.69:SBRB045DS >
+< 2805, 187213992, Checkpoint                    , SBRB045ds.ds0 >
+< 2816, 169927528, Checkpoint                    , SBRB045ds.ds1 >
+< 2817, 69876352, XLA                           , tksrb451_DSN1 >
+< 2817, 69900984, XLA                           , tksrb451_DSN_TRB1 >
+
+ocsrbsrbpapp24 Thu Dec 10 23:04:10 wib 2015 
+DSN: SBRB047
+< 2731, 535502880, Replication                   , 10.76.133.90:SBRB047DS >
+< 2723, 851589696, Checkpoint                    , SBRB047ds.ds0 >
+< 2733, 939034824, Checkpoint                    , SBRB047ds.ds1 >
+< 2734, 717593864, XLA                           , tksrb471_DSN_TRB135 >
+< 2734, 723946944, XLA                           , tksrb471_DSN135 >
+
+ocsrbsrbpapp23 Thu Dec 10 23:12:23 WIB 2015
+DSN: SBRB045
+< 2815, 762051008, Replication                   , 10.76.133.69:SBRB045DS >
+< 2805, 187213992, Checkpoint                    , SBRB045ds.ds0 >
+< 2816, 169927528, Checkpoint                    , SBRB045ds.ds1 >
+< 2818, 574784392, XLA                           , tksrb451_DSN_TRB1 >
+< 2818, 607001800, XLA                           , tksrb451_DSN1 >
+
+ocsrbsrbpapp23 Thu Dec 10 23:12:23 WIB 2015
+DSN: SBRB046
+< 2277, 804375136, Replication                   , 10.76.133.91:SBRB046DS >
+< 2268, 116086528, Checkpoint                    , SBRB046ds.ds1 >
+< 2277, 903340640, Checkpoint                    , SBRB046ds.ds0 >
+< 2279, 341258040, XLA                           , tksrb451_DSN_TRB1 >
+< 2279, 371276504, XLA                           , tksrb451_DSN1 >
+
+ocsrbsrbpapp24 Thu Dec 10 23:12:23 WIB 2015
+DSN: SBRB048
+< 2655, 873767192, Replication                   , 10.76.133.69:SBRB048DS >
+< 2645, 916893216, Checkpoint                    , SBRB048ds.ds0 >
+< 2656, 493434264, Checkpoint                    , SBRB048ds.ds1 >
+< 2658, 504120, XLA                           , tksrb471_DSN_TRB1 >
+< 2658, 7167944, XLA                           , tksrb471_DSN1 >
+
+ocsrbsrbpapp21 Sun Jan 10 01:03:56 wib 2016 
+DSN: SBRB038
+< 20848, 257110904, Replication                   , 10.76.133.119:SBRB038DS >
+< 20839, 229923856, Checkpoint                    , SBRB038ds.ds0 >
+< 20848, 257110904, XLA                           , tksrb411_DSN126 >
+< 20848, 257110904, XLA                           , tksrb411_DSN_TRB126 >
+< 20848, 429427632, Checkpoint                    , SBRB038ds.ds1 >
+
+ocsrbplgpapp13 Mon Feb 22 23:01:32 wib 2016 
+DSN: PLRB025
+DSN: PLRB026
+ 
+ 
+DSN: PLRB027
+ 
+
+ocsrbplgpapp13 Mon Feb 22 23:01:32 wib 2016 
+DSN: PLRB026
+DSN: PLRB027
+ 
+ 
+DSN: PLRB030
+================= ocsrbplgpapp14 Mon Feb 22 23:01:32 wib 2016 =================
+
+ocsrbplgpapp13 Mon Feb 22 23:01:32 wib 2016 
+DSN: PLRB027
+DSN: PLRB030
+ 
+================= ocsrbplgpapp14 Mon Feb 22 23:01:32 wib 2016 =================
+ 
+DSN: PLRB027
+
+ocsrbplgpapp13 Mon Feb 22 23:01:32 wib 2016 
+DSN: PLRB030
+ 
+================= ocsrbplgpapp14 Mon Feb 22 23:01:32 wib 2016 =================
+DSN: PLRB027
+< 711727, 682691824, Checkpoint                    , plrb027ds.ds0 >
+< 711736, 630799672, Replication                   , 10.24.133.35:PLRB027DS >
+
+ocsrbplgpapp14 Mon Feb 22 23:01:32 wib 2016 
+DSN: PLRB027
+< 711736, 630799672, Replication                   , 10.24.133.35:PLRB027DS >
+< 711727, 682691824, Checkpoint                    , plrb027ds.ds0 >
+< 711738, 928002696, Checkpoint                    , plrb027ds.ds1 >
+< 711745, 942666608, XLA                           , tksrb271_DSN_TRB527 >
+< 711745, 969739544, XLA                           , tksrb271_DSN527 >
+
+ocsrbplgpapp15 Mon Feb 22 23:01:32 wib 2016 
+DSN: PLRB026
+< 671897, 185073984, Replication                   , 10.24.133.35:PLRB026DS >
+< 671886, 288909352, Checkpoint                    , plrb026ds.ds0 >
+< 671897, 696001976, Checkpoint                    , plrb026ds.ds1 >
+< 671906, 491398048, XLA                           , tksrb291_DSN_TRB526 >
+< 671906, 492825608, XLA                           , tksrb291_DSN526 >
+
+rbs-siapp02 Wed Feb 24 09:02:47 wib 2016 
+DSN: SIRB003
+< 1183018, 29804256, Checkpoint                    , sirb003ds.ds1 >
+< 1182971, 213171752, Replication                   , 10.37.1.19:SIRB003DS >
+< 1183034, 517898008, Checkpoint                    , sirb003ds.ds0 >
+< 1183047, 318441856, XLA                           , tksrb031_DSN3 >
+< 1183047, 319705408, XLA                           , tksrb031_DSN_TRB3 >
+
+rbs-siapp02 Wed Feb 24 09:02:47 wib 2016 
+DSN: SIRB001
+< 1167805, 105194920, Checkpoint                    , sirb001ds.ds0 >
+< 1167760, 109332504, Replication                   , 10.37.1.19:SIRB001DS >
+< 1167820, 185177224, Checkpoint                    , sirb001ds.ds1 >
+< 1167829, 134198320, XLA                           , tksrb031_DSN1 >
+< 1167829, 136844656, XLA                           , tksrb031_DSN_TRB1 >
+
+rbs-siapp01 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp01 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp01 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14882230 MB | Percentage Usage: 88%
+HOST: rbs-siapp01 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14528246 MB | Percentage Usage: 86%
+HOST: rbs-siapp01 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15838166 MB | Percentage Usage: 94%
+HOST: rbs-siapp01 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14408996 MB | Percentage Usage: 85%
+================= rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp02 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14685247 MB | Percentage Usage: 87%
+
+rbs-siapp01 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp01 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14882230 MB | Percentage Usage: 88%
+HOST: rbs-siapp01 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15838166 MB | Percentage Usage: 94%
+HOST: rbs-siapp01 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14408996 MB | Percentage Usage: 85%
+HOST: rbs-siapp01 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14528246 MB | Percentage Usage: 86%
+================= rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp02 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14685247 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14807660 MB | Percentage Usage: 88%
+
+rbs-siapp01 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp01 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15838166 MB | Percentage Usage: 94%
+HOST: rbs-siapp01 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14528246 MB | Percentage Usage: 86%
+================= rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp01 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14408996 MB | Percentage Usage: 85%
+HOST: rbs-siapp02 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14685247 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14807660 MB | Percentage Usage: 88%
+HOST: rbs-siapp02 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14743947 MB | Percentage Usage: 87%
+
+rbs-siapp01 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp01 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14528246 MB | Percentage Usage: 86%
+HOST: rbs-siapp01 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14408996 MB | Percentage Usage: 85%
+HOST: rbs-siapp02 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14685247 MB | Percentage Usage: 87%
+================= rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp02 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14807660 MB | Percentage Usage: 88%
+HOST: rbs-siapp02 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14743947 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14771575 MB | Percentage Usage: 88%
+
+rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp02 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14685247 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14743947 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14807660 MB | Percentage Usage: 88%
+HOST: rbs-siapp02 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14771575 MB | Percentage Usage: 88%
+================= rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp03 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14936380 MB | Percentage Usage: 89%
+
+rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp02 | DSN: SIRB003 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14685247 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14807660 MB | Percentage Usage: 88%
+HOST: rbs-siapp02 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14771575 MB | Percentage Usage: 88%
+HOST: rbs-siapp02 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14743947 MB | Percentage Usage: 87%
+================= rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp03 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14936380 MB | Percentage Usage: 89%
+HOST: rbs-siapp03 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14573732 MB | Percentage Usage: 86%
+
+rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp02 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14807660 MB | Percentage Usage: 88%
+HOST: rbs-siapp02 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14743947 MB | Percentage Usage: 87%
+================= rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp02 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14771575 MB | Percentage Usage: 88%
+HOST: rbs-siapp03 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14936380 MB | Percentage Usage: 89%
+HOST: rbs-siapp03 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14573732 MB | Percentage Usage: 86%
+HOST: rbs-siapp03 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15605153 MB | Percentage Usage: 93%
+
+rbs-siapp02 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp02 | DSN: SIRB001 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14743947 MB | Percentage Usage: 87%
+HOST: rbs-siapp02 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14771575 MB | Percentage Usage: 88%
+HOST: rbs-siapp03 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14936380 MB | Percentage Usage: 89%
+================= rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp03 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14573732 MB | Percentage Usage: 86%
+HOST: rbs-siapp03 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15605153 MB | Percentage Usage: 93%
+HOST: rbs-siapp03 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14624820 MB | Percentage Usage: 87%
+
+rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp03 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14936380 MB | Percentage Usage: 89%
+HOST: rbs-siapp03 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15605153 MB | Percentage Usage: 93%
+HOST: rbs-siapp03 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14573732 MB | Percentage Usage: 86%
+HOST: rbs-siapp03 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14624820 MB | Percentage Usage: 87%
+================= rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp04 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14722219 MB | Percentage Usage: 87%
+
+rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp03 | DSN: SIRB005 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14936380 MB | Percentage Usage: 89%
+HOST: rbs-siapp03 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14573732 MB | Percentage Usage: 86%
+HOST: rbs-siapp03 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14624820 MB | Percentage Usage: 87%
+HOST: rbs-siapp03 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15605153 MB | Percentage Usage: 93%
+================= rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp04 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14722219 MB | Percentage Usage: 87%
+HOST: rbs-siapp04 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14568291 MB | Percentage Usage: 86%
+
+rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp03 | DSN: SIRB006 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14573732 MB | Percentage Usage: 86%
+HOST: rbs-siapp03 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15605153 MB | Percentage Usage: 93%
+================= rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp03 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14624820 MB | Percentage Usage: 87%
+HOST: rbs-siapp04 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14722219 MB | Percentage Usage: 87%
+HOST: rbs-siapp04 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14568291 MB | Percentage Usage: 86%
+HOST: rbs-siapp04 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15047139 MB | Percentage Usage: 89%
+
+rbs-siapp03 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp03 | DSN: SIRB002 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15605153 MB | Percentage Usage: 93%
+HOST: rbs-siapp03 | DSN: SIRB004 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14624820 MB | Percentage Usage: 87%
+HOST: rbs-siapp04 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14722219 MB | Percentage Usage: 87%
+================= rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp04 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14568291 MB | Percentage Usage: 86%
+HOST: rbs-siapp04 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15047139 MB | Percentage Usage: 89%
+HOST: rbs-siapp04 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491633 MB | Percentage Usage: 86%
+
+rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp04 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14722219 MB | Percentage Usage: 87%
+HOST: rbs-siapp04 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15047139 MB | Percentage Usage: 89%
+HOST: rbs-siapp04 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14568291 MB | Percentage Usage: 86%
+HOST: rbs-siapp04 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491633 MB | Percentage Usage: 86%
+================= rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp05 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14757981 MB | Percentage Usage: 87%
+
+rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp04 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14722219 MB | Percentage Usage: 87%
+HOST: rbs-siapp04 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14568291 MB | Percentage Usage: 86%
+HOST: rbs-siapp04 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491633 MB | Percentage Usage: 86%
+HOST: rbs-siapp04 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15047139 MB | Percentage Usage: 89%
+================= rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp05 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14757981 MB | Percentage Usage: 87%
+HOST: rbs-siapp05 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14977994 MB | Percentage Usage: 89%
+
+rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp04 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14568291 MB | Percentage Usage: 86%
+HOST: rbs-siapp04 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15047139 MB | Percentage Usage: 89%
+================= rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp04 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491633 MB | Percentage Usage: 86%
+HOST: rbs-siapp05 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14757981 MB | Percentage Usage: 87%
+HOST: rbs-siapp05 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14977994 MB | Percentage Usage: 89%
+HOST: rbs-siapp05 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461013 MB | Percentage Usage: 86%
+
+rbs-siapp04 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp04 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15047139 MB | Percentage Usage: 89%
+HOST: rbs-siapp04 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491633 MB | Percentage Usage: 86%
+HOST: rbs-siapp05 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14757981 MB | Percentage Usage: 87%
+================= rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp05 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14977994 MB | Percentage Usage: 89%
+HOST: rbs-siapp05 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461013 MB | Percentage Usage: 86%
+HOST: rbs-siapp05 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461148 MB | Percentage Usage: 86%
+
+rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp05 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14757981 MB | Percentage Usage: 87%
+HOST: rbs-siapp05 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461013 MB | Percentage Usage: 86%
+HOST: rbs-siapp05 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14977994 MB | Percentage Usage: 89%
+HOST: rbs-siapp05 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461148 MB | Percentage Usage: 86%
+================= rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp06 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14525198 MB | Percentage Usage: 86%
+
+rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp05 | DSN: SIRB007 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14757981 MB | Percentage Usage: 87%
+HOST: rbs-siapp05 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14977994 MB | Percentage Usage: 89%
+HOST: rbs-siapp05 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461148 MB | Percentage Usage: 86%
+HOST: rbs-siapp05 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461013 MB | Percentage Usage: 86%
+================= rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp06 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14525198 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14519756 MB | Percentage Usage: 86%
+
+rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp05 | DSN: SIRB009 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14977994 MB | Percentage Usage: 89%
+HOST: rbs-siapp05 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461013 MB | Percentage Usage: 86%
+================= rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp05 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461148 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14525198 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14519756 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14439440 MB | Percentage Usage: 86%
+
+rbs-siapp05 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp05 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461013 MB | Percentage Usage: 86%
+HOST: rbs-siapp05 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14461148 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14525198 MB | Percentage Usage: 86%
+================= rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp06 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14519756 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14439440 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14341438 MB | Percentage Usage: 85%
+
+rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp06 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14525198 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14439440 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14519756 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14341438 MB | Percentage Usage: 85%
+================= rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp07 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14750666 MB | Percentage Usage: 87%
+
+rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp06 | DSN: SIRB008 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14525198 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14519756 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14341438 MB | Percentage Usage: 85%
+HOST: rbs-siapp06 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14439440 MB | Percentage Usage: 86%
+================= rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp07 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14750666 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14623692 MB | Percentage Usage: 87%
+
+rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp06 | DSN: SIRB010 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14519756 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14439440 MB | Percentage Usage: 86%
+================= rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp06 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14341438 MB | Percentage Usage: 85%
+HOST: rbs-siapp07 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14750666 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14623692 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14542586 MB | Percentage Usage: 86%
+
+rbs-siapp06 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp06 | DSN: SIRB011 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14439440 MB | Percentage Usage: 86%
+HOST: rbs-siapp06 | DSN: SIRB012 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14341438 MB | Percentage Usage: 85%
+HOST: rbs-siapp07 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14750666 MB | Percentage Usage: 87%
+================= rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp07 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14623692 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14542586 MB | Percentage Usage: 86%
+HOST: rbs-siapp07 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14533300 MB | Percentage Usage: 86%
+
+rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp07 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14750666 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14542586 MB | Percentage Usage: 86%
+HOST: rbs-siapp07 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14623692 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14533300 MB | Percentage Usage: 86%
+================= rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp08 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14666510 MB | Percentage Usage: 87%
+
+rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp07 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14750666 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14623692 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14533300 MB | Percentage Usage: 86%
+HOST: rbs-siapp07 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14542586 MB | Percentage Usage: 86%
+================= rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp08 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14666510 MB | Percentage Usage: 87%
+HOST: rbs-siapp08 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14455684 MB | Percentage Usage: 86%
+
+rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp07 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14623692 MB | Percentage Usage: 87%
+HOST: rbs-siapp07 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14542586 MB | Percentage Usage: 86%
+================= rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp07 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14533300 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14666510 MB | Percentage Usage: 87%
+HOST: rbs-siapp08 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14455684 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14958675 MB | Percentage Usage: 89%
+
+rbs-siapp07 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp07 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14542586 MB | Percentage Usage: 86%
+HOST: rbs-siapp07 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14533300 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14666510 MB | Percentage Usage: 87%
+================= rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp08 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14455684 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14958675 MB | Percentage Usage: 89%
+HOST: rbs-siapp08 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14618610 MB | Percentage Usage: 87%
+
+rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp08 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14666510 MB | Percentage Usage: 87%
+HOST: rbs-siapp08 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14958675 MB | Percentage Usage: 89%
+HOST: rbs-siapp08 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14455684 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14618610 MB | Percentage Usage: 87%
+================= rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp09 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14811653 MB | Percentage Usage: 88%
+
+rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp08 | DSN: SIRB013 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14666510 MB | Percentage Usage: 87%
+HOST: rbs-siapp08 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14455684 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14618610 MB | Percentage Usage: 87%
+HOST: rbs-siapp08 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14958675 MB | Percentage Usage: 89%
+================= rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp09 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14811653 MB | Percentage Usage: 88%
+HOST: rbs-siapp09 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15028523 MB | Percentage Usage: 89%
+
+rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp08 | DSN: SIRB015 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14455684 MB | Percentage Usage: 86%
+HOST: rbs-siapp08 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14958675 MB | Percentage Usage: 89%
+================= rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp08 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14618610 MB | Percentage Usage: 87%
+HOST: rbs-siapp09 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14811653 MB | Percentage Usage: 88%
+HOST: rbs-siapp09 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15028523 MB | Percentage Usage: 89%
+HOST: rbs-siapp09 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491697 MB | Percentage Usage: 86%
+
+rbs-siapp08 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp08 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14958675 MB | Percentage Usage: 89%
+HOST: rbs-siapp08 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14618610 MB | Percentage Usage: 87%
+HOST: rbs-siapp09 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14811653 MB | Percentage Usage: 88%
+================= rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp09 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15028523 MB | Percentage Usage: 89%
+HOST: rbs-siapp09 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491697 MB | Percentage Usage: 86%
+HOST: rbs-siapp09 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14443153 MB | Percentage Usage: 86%
+
+rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp09 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14811653 MB | Percentage Usage: 88%
+HOST: rbs-siapp09 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491697 MB | Percentage Usage: 86%
+HOST: rbs-siapp09 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15028523 MB | Percentage Usage: 89%
+HOST: rbs-siapp09 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14443153 MB | Percentage Usage: 86%
+================= rbs-siapp10 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp10 | DSN: SIRB019 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14617129 MB | Percentage Usage: 87%
+
+rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp09 | DSN: SIRB014 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14811653 MB | Percentage Usage: 88%
+HOST: rbs-siapp09 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15028523 MB | Percentage Usage: 89%
+HOST: rbs-siapp09 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14443153 MB | Percentage Usage: 86%
+HOST: rbs-siapp09 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491697 MB | Percentage Usage: 86%
+================= rbs-siapp10 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp10 | DSN: SIRB019 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14617129 MB | Percentage Usage: 87%
+^CKilled by signal 2.
+
+rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp09 | DSN: SIRB016 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 15028523 MB | Percentage Usage: 89%
+HOST: rbs-siapp09 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491697 MB | Percentage Usage: 86%
+================= rbs-siapp10 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp09 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14443153 MB | Percentage Usage: 86%
+HOST: rbs-siapp10 | DSN: SIRB019 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14617129 MB | Percentage Usage: 87%
+^CKilled by signal 2.
+
+
+rbs-siapp09 Mon Feb 29 20:40:49 WIB 2016HOST: rbs-siapp09 | DSN: SIRB017 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14491697 MB | Percentage Usage: 86%
+HOST: rbs-siapp09 | DSN: SIRB018 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14443153 MB | Percentage Usage: 86%
+HOST: rbs-siapp10 | DSN: SIRB019 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14617129 MB | Percentage Usage: 87%
+================= rbs-siapp10 Mon Feb 29 20:40:49 WIB 2016 =================
+^CKilled by signal 2.
+
+TKCM01 cm-sidb01 /oravl01/oracle/dba/hpocs/taat/timesten > check_simatupang.sh
+
+rbs-siapp10 Mon Feb 29 20:40:49 WIB 2016================= rbs-siapp10 Mon Feb 29 20:40:49 WIB 2016 =================
+HOST: rbs-siapp10 | DSN: SIRB019 | PERM_ALLOCATED_SIZE: 16777216 MB | PERM_IN_USE_SIZE: 14617129 MB | Percentage Usage: 87%
+
+^CKilled by signal 2.
+TKCM01 cm-sidb01 /oravl01/oracle/dba/hpocs/taat/timesten > check_simatupang.sh
+
+Subject: Monitoring Backlog Site TBS.
+
+rbs-siapp10 Mon Feb 29 21:02:28 wib 2016 
+DSN: SIRB019
+< 1181176, 349837488, Replication                   , 10.37.1.30:SIRB019DS >
+< 1181160, 288910400, Checkpoint                    , sirb019ds.ds1 >
+< 1181182, 383885416, Checkpoint                    , sirb019ds.ds0 >
+< 1181209, 451102432, XLA                           , tksrb191_DSN19 >
+< 1181209, 456852704, XLA                           , tksrb191_DSN_TRB19 >
+
+rbs-siapp10 Mon Feb 29 22:02:19 wib 2016 
+DSN: SIRB019
+< 1181207, 474802256, Checkpoint                    , sirb019ds.ds1 >
+< 1181197, 459796936, Replication                   , 10.37.1.30:SIRB019DS >
+< 1181228, 279738560, Checkpoint                    , sirb019ds.ds0 >
+< 1181246, 318982344, XLA                           , tksrb191_DSN_TRB19 >
+< 1181246, 327377176, XLA                           , tksrb191_DSN19 >
+
+rbs-siapp10 Mon Feb 29 22:02:19 wib 2016 
+DSN: SIRB020
+< 1165347, 488839032, Checkpoint                    , sirb020ds.ds0 >
+< 1165333, 420877984, Replication                   , 10.37.1.27:SIRB020DS >
+< 1165360, 255944056, Checkpoint                    , sirb020ds.ds1 >
+< 1165373, 346857744, XLA                           , tksrb191_DSN_TRB20 >
+< 1165373, 359705088, XLA                           , tksrb191_DSN20 >
+
+rbs-siapp10 Mon Feb 29 22:02:19 wib 2016 
+DSN: SIRB019
+< 1181207, 474802256, Checkpoint                    , sirb019ds.ds1 >
+< 1181197, 459796936, Replication                   , 10.37.1.30:SIRB019DS >
+< 1181228, 279738560, Checkpoint                    , sirb019ds.ds0 >
+< 1181246, 318982344, XLA                           , tksrb191_DSN_TRB19 >
+< 1181246, 327377176, XLA                           , tksrb191_DSN19 >
+
+rbs-siapp10 Mon Feb 29 22:02:19 wib 2016 
+DSN: SIRB020
+< 1165347, 488839032, Checkpoint                    , sirb020ds.ds0 >
+< 1165333, 420877984, Replication                   , 10.37.1.27:SIRB020DS >
+< 1165360, 255944056, Checkpoint                    , sirb020ds.ds1 >
+< 1165373, 346857744, XLA                           , tksrb191_DSN_TRB20 >
+< 1165373, 359705088, XLA                           , tksrb191_DSN20 >
+
+rbs-siapp10 Mon Feb 29 23:02:33 wib 2016 
+DSN: SIRB019
+< 1181245, 301896496, Checkpoint                    , sirb019ds.ds1 >
+< 1181227, 494009768, Replication                   , 10.37.1.30:SIRB019DS >
+< 1181258, 32143072, Checkpoint                    , sirb019ds.ds0 >
+< 1181270, 461049840, XLA                           , tksrb191_DSN_TRB19 >
+< 1181270, 468209120, XLA                           , tksrb191_DSN19 >
+
+rbs-siapp10 Mon Feb 29 23:02:33 wib 2016 
+DSN: SIRB020
+< 1165395, 146054656, Checkpoint                    , sirb020ds.ds0 >
+< 1165362, 28530400, Replication                   , 10.37.1.27:SIRB020DS >
+< 1165396, 376964104, Checkpoint                    , sirb020ds.ds1 >
+< 1165399, 152555736, XLA                           , tksrb191_DSN_TRB20 >
+< 1165399, 165667064, XLA                           , tksrb191_DSN20 >
+
+ocsrbsrbpapp11 Sun Mar 27 07:04:14 wib 2016 
+DSN: SBRB021
+< 940529, 272217008, Checkpoint                    , sbrb021ds.ds1 >
+< 940492, 6254696, Replication                   , 10.76.133.19:SBRB021DS >
+< 940531, 729863576, Checkpoint                    , sbrb021ds.ds0 >
+< 940539, 382862576, XLA                           , tksrb211_DSN_TRB109 >
+< 940539, 417322848, XLA                           , tksrb211_DSN109 >
+
+ocsrbsrbpapp23 Sun Mar 27 07:04:14 wib 2016 
+DSN: SBRB045
+< 51631, 1016958144, Checkpoint                    , SBRB045ds.ds1 >
+< 51602, 844894304, Replication                   , 10.76.133.69:SBRB045DS >
+< 51641, 420536696, Checkpoint                    , SBRB045ds.ds0 >
+< 51645, 904880344, XLA                           , tksrb451_DSN_TRB1 >
+< 51645, 933120448, XLA                           , tksrb451_DSN1 >
+
+ocsrbsrbpapp11 Mon Mar 28 06:03:49 wib 2016 
+DSN: SBRB021
+< 941106, 851644056, Replication                   , 10.76.133.19:SBRB021DS >
+< 941104, 260221192, Checkpoint                    , sbrb021ds.ds0 >
+< 941112, 667957576, Checkpoint                    , sbrb021ds.ds1 >
+< 941120, 382370280, XLA                           , tksrb211_DSN_TRB109 >
+< 941120, 404107744, XLA                           , tksrb211_DSN109 >
+
+rbs-siapp15 Tue Mar 29 23:02:28 wib 2016 
+DSN: SIRB030
+< 189185, 841141128, Replication                   , 10.37.1.32:SIRB030DS >
+< 189176, 1004391752, Checkpoint                    , sirb030ds.ds0 >
+< 189186, 267954608, Checkpoint                    , sirb030ds.ds1 >
+< 189188, 540051632, XLA                           , tksrb291_DSN_TRB30 >
+< 189188, 545447368, XLA                           , tksrb291_DSN30 >
+
+rbs-siapp16 Tue Mar 29 23:02:28 wib 2016 
+DSN: SIRB028
+DSN: SIRB030
+ 
+ 
+DSN: SIRB031
+ 
+
+rbs-siapp16 Tue Mar 29 23:02:28 wib 2016 
+DSN: SIRB030
+DSN: SIRB031
+ 
+ 
+DSN: SIRB032
+================= rbs-siapp17 Tue Mar 29 23:02:28 wib 2016 =================
+
+rbs-siapp16 Tue Mar 29 23:02:28 wib 2016 
+DSN: SIRB031
+DSN: SIRB032
+ 
+================= rbs-siapp17 Tue Mar 29 23:02:28 wib 2016 =================
+ 
+DSN: SIRB033
+
+rbs-siapp16 Tue Mar 29 23:02:28 wib 2016 
+DSN: SIRB032
+ 
+================= rbs-siapp17 Tue Mar 29 23:02:28 wib 2016 =================
+DSN: SIRB033
+< 1243388, 206805624, Checkpoint                    , sirb033ds.ds0 >
+< 1243402, 203738992, Checkpoint                    , sirb033ds.ds1 >
+
+rbs-siapp14 Thu Mar 31 02:05:30 wib 2016 
+DSN: SIRB028
+< 197525, 427329056, Replication                   , 10.37.1.32:SIRB028DS >
+< 197516, 320162792, Checkpoint                    , sirb028ds.ds1 >
+< 197528, 882687480, Checkpoint                    , sirb028ds.ds0 >
+< 197532, 218144632, XLA                           , tksrb271_DSN_TRB28 >
+< 197532, 223866896, XLA                           , tksrb271_DSN28 >
+
+rbs-siapp10 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB019
+DSN: SIRB020
+ 
+ 
+DSN: SIRB021
+ 
+
+rbs-siapp10 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB020
+DSN: SIRB021
+ 
+ 
+DSN: SIRB024
+================= rbs-siapp11 Wed May 18 13:03:17 wib 2016 =================
+
+rbs-siapp10 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB021
+DSN: SIRB024
+ 
+================= rbs-siapp11 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB019
+
+rbs-siapp10 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB024
+ 
+================= rbs-siapp11 Wed May 18 13:03:17 wib 2016 =================
+DSN: SIRB019
+ 
+DSN: SIRB021
+
+rbs-siapp11 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB019
+DSN: SIRB021
+ 
+ 
+DSN: SIRB022
+ 
+
+rbs-siapp11 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB021
+DSN: SIRB022
+ 
+ 
+DSN: SIRB023
+================= rbs-siapp12 Wed May 18 13:03:17 wib 2016 =================
+
+rbs-siapp11 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB022
+DSN: SIRB023
+ 
+================= rbs-siapp12 Wed May 18 13:03:17 wib 2016 =================
+================= rbs-siapp13 Wed May 18 13:03:17 wib 2016 =================
+ 
+
+rbs-siapp11 Wed May 18 13:03:17 wib 2016 
+DSN: SIRB023
+================= rbs-siapp13 Wed May 18 13:03:17 wib 2016 =================
+================= rbs-siapp12 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB025
+< 1223770, 280547120, Checkpoint                    , sirb025ds.ds1 >
+

@@ -1,0 +1,946 @@
+================= rbs-siapp01 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB001
+< 1223969, 512810392, Checkpoint                    , sirb001ds.ds1 >
+< 1223985, 428995032, Checkpoint                    , sirb001ds.ds0 >
+< 1224003, 297094304, XLA                           , tksrb011_DSN_TRB1 >
+< 1224003, 310701616, XLA                           , tksrb011_DSN1 >
+< 1224003, 310912112, Replication                   , 10.37.1.20:SIRB001DS >
+ 
+DSN: SIRB002
+< 1159720, 194104936, Checkpoint                    , sirb002ds.ds0 >
+< 1159734, 331320608, Checkpoint                    , sirb002ds.ds1 >
+< 1159747, 85293040, XLA                           , tksrb011_DSN_TRB2 >
+< 1159747, 90537408, XLA                           , tksrb011_DSN2 >
+< 1159747, 90685880, Replication                   , 10.37.1.15:SIRB002DS >
+ 
+DSN: SIRB003
+< 1238443, 258775496, Checkpoint                    , sirb003ds.ds1 >
+< 1238458, 276588712, Checkpoint                    , sirb003ds.ds0 >
+< 1238463, 30834104, XLA                           , tksrb011_DSN3 >
+< 1238463, 30834104, XLA                           , tksrb011_DSN_TRB3 >
+< 1238463, 73754976, Replication                   , 10.37.1.20:SIRB003DS >
+ 
+DSN: SIRB006
+< 1195296, 216545680, Checkpoint                    , sirb006ds.ds0 >
+< 1195311, 428555336, Checkpoint                    , sirb006ds.ds1 >
+< 1195314, 143521632, XLA                           , tksrb011_DSN6 >
+< 1195314, 143521632, XLA                           , tksrb011_DSN_TRB6 >
+< 1195314, 179218528, Replication                   , 10.37.1.15:SIRB006DS >
+================= rbs-siapp02 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB003
+< 1241087, 258319424, Checkpoint                    , sirb003ds.ds1 >
+< 1241103, 152589808, Checkpoint                    , sirb003ds.ds0 >
+< 1241115, 143775912, XLA                           , tksrb031_DSN_TRB3 >
+< 1241115, 148981272, Replication                   , 10.37.1.19:SIRB003DS >
+< 1241115, 149109968, XLA                           , tksrb031_DSN3 >
+ 
+DSN: SIRB004
+< 1188897, 261532968, Checkpoint                    , sirb004ds.ds1 >
+< 1188911, 208156808, Checkpoint                    , sirb004ds.ds0 >
+< 1188919, 396608592, XLA                           , tksrb031_DSN_TRB4 >
+< 1188919, 405849160, XLA                           , tksrb031_DSN4 >
+< 1188919, 406403216, Replication                   , 10.37.1.15:SIRB004DS >
+ 
+DSN: SIRB001
+< 1221489, 59885144, Checkpoint                    , sirb001ds.ds1 >
+< 1221504, 184380216, Checkpoint                    , sirb001ds.ds0 >
+< 1221517, 523287232, XLA                           , tksrb031_DSN1 >
+< 1221517, 523287232, XLA                           , tksrb031_DSN_TRB1 >
+< 1221518, 51817968, Replication                   , 10.37.1.19:SIRB001DS >
+ 
+DSN: SIRB005
+< 1190761, 328079672, Checkpoint                    , sirb005ds.ds1 >
+< 1190775, 273881624, Checkpoint                    , sirb005ds.ds0 >
+< 1190787, 327542904, XLA                           , tksrb031_DSN5 >
+< 1190787, 327542904, XLA                           , tksrb031_DSN_TRB5 >
+< 1190787, 375102288, Replication                   , 10.37.1.15:SIRB005DS >
+================= rbs-siapp03 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB005
+< 1192937, 355413888, Checkpoint                    , sirb005ds.ds0 >
+< 1192952, 180859064, Checkpoint                    , sirb005ds.ds1 >
+< 1192958, 370673608, XLA                           , tksrb051_DSN_TRB5 >
+< 1192958, 371573072, XLA                           , tksrb051_DSN5 >
+< 1192958, 371643648, Replication                   , 10.37.1.20:SIRB005DS >
+ 
+DSN: SIRB006
+< 1197773, 389775632, Checkpoint                    , sirb006ds.ds0 >
+< 1197789, 421115528, Checkpoint                    , sirb006ds.ds1 >
+< 1197794, 140230824, XLA                           , tksrb051_DSN_TRB6 >
+< 1197794, 169362464, XLA                           , tksrb051_DSN6 >
+< 1197794, 169597896, Replication                   , 10.37.1.19:SIRB006DS >
+ 
+DSN: SIRB002
+< 1157845, 471405544, Checkpoint                    , sirb002ds.ds1 >
+< 1157859, 181385560, Checkpoint                    , sirb002ds.ds0 >
+< 1157862, 136391880, XLA                           , tksrb051_DSN2 >
+< 1157862, 136391880, XLA                           , tksrb051_DSN_TRB2 >
+< 1157862, 178972528, Replication                   , 10.37.1.19:SIRB002DS >
+ 
+DSN: SIRB004
+< 1186642, 265809160, Checkpoint                    , sirb004ds.ds0 >
+< 1186655, 369428992, Checkpoint                    , sirb004ds.ds1 >
+< 1186657, 68021160, XLA                           , tksrb051_DSN4 >
+< 1186657, 68021160, XLA                           , tksrb051_DSN_TRB4 >
+< 1186657, 94859800, Replication                   , 10.37.1.20:SIRB004DS >
+================= rbs-siapp04 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB007
+< 1223955, 291700504, Checkpoint                    , sirb007ds.ds0 >
+< 1223970, 255573216, Checkpoint                    , sirb007ds.ds1 >
+< 1223986, 438194824, XLA                           , tksrb071_DSN_TRB7 >
+< 1223986, 463550312, XLA                           , tksrb071_DSN7 >
+< 1223986, 464318016, Replication                   , 10.37.1.22:SIRB007DS >
+ 
+DSN: SIRB008
+< 1232745, 443920120, Checkpoint                    , sirb008ds.ds0 >
+< 1232760, 416030032, Checkpoint                    , sirb008ds.ds1 >
+< 1232774, 397472000, XLA                           , tksrb071_DSN_TRB8 >
+< 1232774, 414937512, XLA                           , tksrb071_DSN8 >
+< 1232774, 415636896, Replication                   , 10.37.1.18:SIRB008DS >
+ 
+DSN: SIRB009
+< 1245349, 158043096, Checkpoint                    , sirb009ds.ds0 >
+< 1245363, 198687112, Checkpoint                    , sirb009ds.ds1 >
+< 1245367, 266089848, XLA                           , tksrb071_DSN9 >
+< 1245367, 266089848, XLA                           , tksrb071_DSN_TRB9 >
+< 1245367, 295558880, Replication                   , 10.37.1.22:SIRB009DS >
+ 
+DSN: SIRB012
+< 1013404, 228367024, Checkpoint                    , sirb012ds.ds1 >
+< 1013418, 170032600, Checkpoint                    , sirb012ds.ds0 >
+< 1013420, 127914288, XLA                           , tksrb071_DSN12 >
+< 1013420, 127914288, XLA                           , tksrb071_DSN_TRB12 >
+< 1013420, 156661448, Replication                   , 10.37.1.18:SIRB012DS >
+================= rbs-siapp05 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB007
+< 1221480, 260487120, Checkpoint                    , sirb007ds.ds0 >
+< 1221494, 389253000, Checkpoint                    , sirb007ds.ds1 >
+< 1221498, 383398288, XLA                           , tksrb091_DSN7 >
+< 1221498, 383398288, XLA                           , tksrb091_DSN_TRB7 >
+< 1221498, 417260528, Replication                   , 10.37.1.33:SIRB007DS >
+ 
+DSN: SIRB009
+< 1247605, 164704960, Checkpoint                    , sirb009ds.ds1 >
+< 1247620, 30901416, Checkpoint                    , sirb009ds.ds0 >
+< 1247631, 234817728, XLA                           , tksrb091_DSN_TRB9 >
+< 1247631, 246790584, XLA                           , tksrb091_DSN9 >
+< 1247631, 246917912, Replication                   , 10.37.1.33:SIRB009DS >
+ 
+DSN: SIRB010
+< 1217685, 38990240, Checkpoint                    , sirb010ds.ds1 >
+< 1217699, 191304176, Checkpoint                    , sirb010ds.ds0 >
+< 1217708, 37436608, XLA                           , tksrb091_DSN_TRB10 >
+< 1217708, 38344072, XLA                           , tksrb091_DSN10 >
+< 1217708, 38400952, Replication                   , 10.37.1.18:SIRB010DS >
+ 
+DSN: SIRB011
+< 1019650, 500013952, Checkpoint                    , sirb011ds.ds1 >
+< 1019664, 91482752, Checkpoint                    , sirb011ds.ds0 >
+< 1019666, 197020160, XLA                           , tksrb091_DSN11 >
+< 1019666, 197020160, XLA                           , tksrb091_DSN_TRB11 >
+< 1019666, 228616880, Replication                   , 10.37.1.18:SIRB011DS >
+================= rbs-siapp06 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB008
+< 1230359, 457208224, Checkpoint                    , sirb008ds.ds0 >
+< 1230374, 118222224, Checkpoint                    , sirb008ds.ds1 >
+< 1230378, 291727976, XLA                           , tksrb111_DSN8 >
+< 1230378, 291727976, XLA                           , tksrb111_DSN_TRB8 >
+< 1230378, 316521224, Replication                   , 10.37.1.33:SIRB008DS >
+ 
+DSN: SIRB010
+< 1196842, 333596856, Checkpoint                    , sirb010ds.ds1 >
+< 1196856, 74168624, Checkpoint                    , sirb010ds.ds0 >
+< 1196856, 509250312, XLA                           , tksrb111_DSN10 >
+< 1196856, 509250312, XLA                           , tksrb111_DSN_TRB10 >
+< 1196857, 13852144, Replication                   , 10.37.1.22:SIRB010DS >
+ 
+DSN: SIRB011
+< 1021692, 16555816, Checkpoint                    , sirb011ds.ds0 >
+< 1021705, 480728448, Checkpoint                    , sirb011ds.ds1 >
+< 1021711, 517274072, XLA                           , tksrb111_DSN_TRB11 >
+< 1021711, 523331560, XLA                           , tksrb111_DSN11 >
+< 1021711, 523860272, Replication                   , 10.37.1.22:SIRB011DS >
+ 
+DSN: SIRB012
+< 1015716, 277104864, Checkpoint                    , sirb012ds.ds0 >
+< 1015731, 181317000, Checkpoint                    , sirb012ds.ds1 >
+< 1015735, 223872696, XLA                           , tksrb111_DSN_TRB12 >
+< 1015735, 225309144, XLA                           , tksrb111_DSN12 >
+< 1015735, 225775776, Replication                   , 10.37.1.33:SIRB012DS >
+================= rbs-siapp07 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB014
+< 1273937, 392083600, Checkpoint                    , sirb014ds.ds1 >
+< 1273953, 129427776, Checkpoint                    , sirb014ds.ds0 >
+< 1273967, 194663640, XLA                           , tksrb131_DSN_TRB14 >
+< 1273967, 206469464, XLA                           , tksrb131_DSN14 >
+< 1273967, 207059872, Replication                   , 10.37.1.21:SIRB014DS >
+ 
+DSN: SIRB013
+< 1212019, 15408088, Checkpoint                    , sirb013ds.ds0 >
+< 1212033, 276286480, Checkpoint                    , sirb013ds.ds1 >
+< 1212049, 292119560, XLA                           , tksrb131_DSN_TRB13 >
+< 1212049, 307845920, Replication                   , 10.37.1.26:SIRB013DS >
+< 1212049, 307845920, XLA                           , tksrb131_DSN13 >
+ 
+DSN: SIRB015
+< 1189320, 19775976, Checkpoint                    , sirb015ds.ds0 >
+< 1189334, 124511576, Checkpoint                    , sirb015ds.ds1 >
+< 1189338, 95762784, XLA                           , tksrb131_DSN15 >
+< 1189338, 95762784, XLA                           , tksrb131_DSN_TRB15 >
+< 1189338, 134011464, Replication                   , 10.37.1.26:SIRB015DS >
+ 
+DSN: SIRB018
+< 1200731, 23742624, Checkpoint                    , sirb018ds.ds0 >
+< 1200744, 487036928, Checkpoint                    , sirb018ds.ds1 >
+< 1200746, 67497552, XLA                           , tksrb131_DSN18 >
+< 1200746, 67497552, XLA                           , tksrb131_DSN_TRB18 >
+< 1200746, 95322208, Replication                   , 10.37.1.21:SIRB018DS >
+================= rbs-siapp08 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB013
+< 1191926, 469387904, Checkpoint                    , sirb013ds.ds1 >
+< 1191940, 350425656, Checkpoint                    , sirb013ds.ds0 >
+< 1191943, 108484408, XLA                           , tksrb151_DSN13 >
+< 1191943, 108484408, XLA                           , tksrb151_DSN_TRB13 >
+< 1191943, 151900024, Replication                   , 10.37.1.36:SIRB013DS >
+ 
+DSN: SIRB015
+< 1207902, 67996848, Checkpoint                    , sirb015ds.ds1 >
+< 1207916, 481469488, Checkpoint                    , sirb015ds.ds0 >
+< 1207928, 169364240, XLA                           , tksrb151_DSN_TRB15 >
+< 1207928, 175356488, XLA                           , tksrb151_DSN15 >
+< 1207928, 175902336, Replication                   , 10.37.1.36:SIRB015DS >
+ 
+DSN: SIRB016
+< 1257793, 121494040, Checkpoint                    , sirb016ds.ds0 >
+< 1257808, 449783104, Checkpoint                    , sirb016ds.ds1 >
+< 1257818, 4104952, XLA                           , tksrb151_DSN_TRB16 >
+< 1257818, 14911504, Replication                   , 10.37.1.21:SIRB016DS >
+< 1257818, 15481272, XLA                           , tksrb151_DSN16 >
+ 
+DSN: SIRB017
+< 1239512, 35589168, Checkpoint                    , sirb017ds.ds0 >
+< 1239526, 288224784, Checkpoint                    , sirb017ds.ds1 >
+< 1239528, 405339624, XLA                           , tksrb151_DSN17 >
+< 1239528, 405339624, XLA                           , tksrb151_DSN_TRB17 >
+< 1239528, 433853248, Replication                   , 10.37.1.21:SIRB017DS >
+================= rbs-siapp09 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB014
+< 1253398, 305842656, Checkpoint                    , sirb014ds.ds0 >
+< 1253413, 56949864, Checkpoint                    , sirb014ds.ds1 >
+< 1253427, 511910976, XLA                           , tksrb171_DSN14 >
+< 1253427, 511910976, XLA                           , tksrb171_DSN_TRB14 >
+< 1253428, 21777016, Replication                   , 10.37.1.36:SIRB014DS >
+ 
+DSN: SIRB016
+< 1257041, 78562096, Checkpoint                    , sirb016ds.ds0 >
+< 1257055, 393388296, Checkpoint                    , sirb016ds.ds1 >
+< 1257058, 301138304, XLA                           , tksrb171_DSN16 >
+< 1257058, 301138304, XLA                           , tksrb171_DSN_TRB16 >
+< 1257058, 324236384, Replication                   , 10.37.1.26:SIRB016DS >
+ 
+DSN: SIRB017
+< 1240270, 520980488, Checkpoint                    , sirb017ds.ds1 >
+< 1240286, 88548456, Checkpoint                    , sirb017ds.ds0 >
+< 1240292, 444926376, XLA                           , tksrb171_DSN17 >
+< 1240292, 445099496, XLA                           , tksrb171_DSN_TRB17 >
+< 1240292, 445134304, Replication                   , 10.37.1.26:SIRB017DS >
+ 
+DSN: SIRB018
+< 1201468, 505961816, Checkpoint                    , sirb018ds.ds0 >
+< 1201483, 218139744, Checkpoint                    , sirb018ds.ds1 >
+< 1201487, 316908616, XLA                           , tksrb171_DSN_TRB18 >
+< 1201487, 325382624, XLA                           , tksrb171_DSN18 >
+< 1201487, 325487040, Replication                   , 10.37.1.36:SIRB018DS >
+================= rbs-siapp10 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB019
+ 
+DSN: SIRB020
+ 
+DSN: SIRB021
+ 
+DSN: SIRB024
+================= rbs-siapp11 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB019
+ 
+DSN: SIRB021
+ 
+DSN: SIRB022
+ 
+DSN: SIRB023
+================= rbs-siapp12 Wed May 18 13:03:17 wib 2016 =================
+================= rbs-siapp13 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB025
+< 1223770, 280547120, Checkpoint                    , sirb025ds.ds1 >
+< 1223785, 449412256, Checkpoint                    , sirb025ds.ds0 >
+< 1223788, 78225632, XLA                           , tksrb251_DSN_TRB25 >
+< 1223788, 99076520, Replication                   , 10.37.1.128:SIRB025DS >
+< 1223788, 99125152, XLA                           , tksrb251_DSN25 >
+ 
+DSN: SIRB026
+< 1234427, 220744800, Checkpoint                    , sirb026ds.ds1 >
+< 1234444, 1387368, Checkpoint                    , sirb026ds.ds0 >
+< 1234460, 273058008, XLA                           , tksrb251_DSN_TRB26 >
+< 1234460, 281457680, Replication                   , 10.37.1.129:SIRB026DS >
+< 1234460, 282644984, XLA                           , tksrb251_DSN26 >
+ 
+DSN: SIRB048
+< 876965, 154909384, Checkpoint                    , sirb048ds.ds0 >
+< 876978, 141375232, Checkpoint                    , sirb048ds.ds1 >
+< 876992, 162369624, XLA                           , tksrb251_DSN248 >
+< 876992, 162369624, XLA                           , tksrb251_DSN_TRB248 >
+< 876992, 202125824, Replication                   , 10.37.1.129:SIRB048DS >
+ 
+DSN: SIRB045
+< 936156, 426126144, Checkpoint                    , SIRB045ds.ds0 >
+< 936170, 111568136, Checkpoint                    , SIRB045ds.ds1 >
+< 936183, 368412088, XLA                           , tksrb251_DSN245 >
+< 936183, 368412088, XLA                           , tksrb251_DSN_TRB245 >
+< 936183, 397373096, Replication                   , 10.37.1.128:SIRB045DS >
+================= rbs-siapp14 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB027
+< 237305, 971261456, Checkpoint                    , sirb027ds.ds1 >
+< 237331, 219385080, Checkpoint                    , sirb027ds.ds0 >
+< 237351, 966211320, XLA                           , tksrb271_DSN_TRB27 >
+< 237351, 1007627440, Replication                   , 10.37.1.31:SIRB027DS >
+< 237351, 1007627440, XLA                           , tksrb271_DSN27 >
+ 
+DSN: SIRB028
+< 234781, 630052824, Checkpoint                    , sirb028ds.ds1 >
+< 234807, 307900496, Checkpoint                    , sirb028ds.ds0 >
+< 234817, 637432880, XLA                           , tksrb271_DSN_TRB28 >
+< 234817, 649158904, Replication                   , 10.37.1.32:SIRB028DS >
+< 234817, 653171632, XLA                           , tksrb271_DSN28 >
+ 
+DSN: SIRB029
+< 205296, 367231240, Checkpoint                    , sirb029ds.ds0 >
+< 205319, 99638696, Checkpoint                    , sirb029ds.ds1 >
+< 205342, 27989216, XLA                           , tksrb271_DSN29 >
+< 205342, 27989216, XLA                           , tksrb271_DSN_TRB29 >
+< 205342, 141676272, Replication                   , 10.37.1.31:SIRB029DS >
+ 
+DSN: SIRB032
+< 204482, 327671208, Checkpoint                    , sirb032ds.ds0 >
+< 204505, 729588288, Checkpoint                    , sirb032ds.ds1 >
+< 204517, 582234272, XLA                           , tksrb271_DSN32 >
+< 204517, 582234272, XLA                           , tksrb271_DSN_TRB32 >
+< 204517, 684786568, Replication                   , 10.37.1.32:SIRB032DS >
+================= rbs-siapp15 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB027
+< 225060, 885846248, Checkpoint                    , sirb027ds.ds0 >
+< 225084, 564650208, Checkpoint                    , sirb027ds.ds1 >
+< 225108, 853622888, XLA                           , tksrb291_DSN27 >
+< 225108, 853622888, XLA                           , tksrb291_DSN_TRB27 >
+< 225108, 976970992, Replication                   , 10.37.1.41:SIRB027DS >
+ 
+DSN: SIRB029
+< 217759, 398872320, Checkpoint                    , sirb029ds.ds0 >
+< 217783, 795968544, Checkpoint                    , sirb029ds.ds1 >
+< 217795, 587295640, XLA                           , tksrb291_DSN_TRB29 >
+< 217795, 625238424, XLA                           , tksrb291_DSN29 >
+< 217795, 626011624, Replication                   , 10.37.1.41:SIRB029DS >
+ 
+DSN: SIRB030
+< 220509, 786874120, Checkpoint                    , sirb030ds.ds0 >
+< 220534, 42122344, Checkpoint                    , sirb030ds.ds1 >
+< 220557, 546129936, XLA                           , tksrb291_DSN_TRB30 >
+< 220557, 569975896, XLA                           , tksrb291_DSN30 >
+< 220557, 570649760, Replication                   , 10.37.1.32:SIRB030DS >
+ 
+DSN: SIRB031
+< 207434, 835145648, Checkpoint                    , sirb031ds.ds0 >
+< 207459, 143019984, Checkpoint                    , sirb031ds.ds1 >
+< 207478, 622344072, XLA                           , tksrb291_DSN31 >
+< 207478, 622344072, XLA                           , tksrb291_DSN_TRB31 >
+< 207478, 768010464, Replication                   , 10.37.1.32:SIRB031DS >
+================= rbs-siapp16 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB028
+< 232920, 1038229448, Checkpoint                    , sirb028ds.ds0 >
+< 232944, 804944784, Checkpoint                    , sirb028ds.ds1 >
+< 232969, 435918600, XLA                           , tksrb311_DSN28 >
+< 232969, 435918600, XLA                           , tksrb311_DSN_TRB28 >
+< 232969, 569222040, Replication                   , 10.37.1.41:SIRB028DS >
+ 
+DSN: SIRB030
+< 208385, 57140944, Checkpoint                    , sirb030ds.ds0 >
+< 208408, 397819248, Checkpoint                    , sirb030ds.ds1 >
+< 208415, 848704656, XLA                           , tksrb311_DSN30 >
+< 208415, 848704656, XLA                           , tksrb311_DSN_TRB30 >
+< 208415, 974875264, Replication                   , 10.37.1.31:SIRB030DS >
+ 
+DSN: SIRB031
+< 216787, 691459696, Checkpoint                    , sirb031ds.ds0 >
+< 216813, 431854696, Checkpoint                    , sirb031ds.ds1 >
+< 216842, 960760336, XLA                           , tksrb311_DSN_TRB31 >
+< 216843, 43018280, XLA                           , tksrb311_DSN31 >
+< 216843, 43726032, Replication                   , 10.37.1.31:SIRB031DS >
+ 
+DSN: SIRB032
+< 215457, 492281568, Checkpoint                    , sirb032ds.ds1 >
+< 215481, 611972848, Checkpoint                    , sirb032ds.ds0 >
+< 215496, 783524080, XLA                           , tksrb311_DSN_TRB32 >
+< 215496, 796255152, Replication                   , 10.37.1.41:SIRB032DS >
+< 215496, 800488840, XLA                           , tksrb311_DSN32 >
+================= rbs-siapp17 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB033
+< 1279131, 189444472, Checkpoint                    , sirb033ds.ds0 >
+< 1279147, 308316488, Checkpoint                    , sirb033ds.ds1 >
+< 1279160, 511048128, XLA                           , tksrb331_DSN_TRB33 >
+< 1279160, 522962976, XLA                           , tksrb331_DSN33 >
+< 1279160, 523235152, Replication                   , 10.37.1.34:SIRB033DS >
+ 
+DSN: SIRB034
+< 1201384, 372796968, Checkpoint                    , sirb034ds.ds1 >
+< 1201400, 498396136, Checkpoint                    , sirb034ds.ds0 >
+< 1201411, 226153872, XLA                           , tksrb331_DSN_TRB34 >
+< 1201411, 233298864, XLA                           , tksrb331_DSN34 >
+< 1201411, 233400176, Replication                   , 10.37.1.35:SIRB034DS >
+ 
+DSN: SIRB035
+< 1052654, 42222720, Checkpoint                    , sirb035ds.ds1 >
+< 1052667, 300799656, Checkpoint                    , sirb035ds.ds0 >
+< 1052670, 412530216, XLA                           , tksrb331_DSN35 >
+< 1052670, 412530216, XLA                           , tksrb331_DSN_TRB35 >
+< 1052670, 452043896, Replication                   , 10.37.1.34:SIRB035DS >
+ 
+DSN: SIRB038
+< 1161970, 403514808, Checkpoint                    , sirb038ds.ds0 >
+< 1161985, 385932320, Checkpoint                    , sirb038ds.ds1 >
+< 1161989, 58509776, XLA                           , tksrb331_DSN38 >
+< 1161989, 58509776, XLA                           , tksrb331_DSN_TRB38 >
+< 1161989, 100753176, Replication                   , 10.37.1.35:SIRB038DS >
+================= rbs-siapp18 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB033
+< 1258333, 166759736, Checkpoint                    , sirb033ds.ds1 >
+< 1258348, 341527880, Checkpoint                    , sirb033ds.ds0 >
+< 1258351, 428192104, XLA                           , tksrb351_DSN33 >
+< 1258351, 428192104, XLA                           , tksrb351_DSN_TRB33 >
+< 1258351, 468743568, Replication                   , 10.37.1.42:SIRB033DS >
+ 
+DSN: SIRB035
+< 1069563, 266728888, Checkpoint                    , sirb035ds.ds0 >
+< 1069577, 426044992, Checkpoint                    , sirb035ds.ds1 >
+< 1069584, 361029216, XLA                           , tksrb351_DSN_TRB35 >
+< 1069584, 369272752, XLA                           , tksrb351_DSN35 >
+< 1069584, 369643224, Replication                   , 10.37.1.42:SIRB035DS >
+ 
+DSN: SIRB036
+< 1123089, 287301856, Checkpoint                    , sirb036ds.ds1 >
+< 1123102, 347847848, Checkpoint                    , sirb036ds.ds0 >
+< 1123106, 416316136, XLA                           , tksrb351_DSN_TRB36 >
+< 1123106, 425114184, XLA                           , tksrb351_DSN36 >
+< 1123106, 425611304, Replication                   , 10.37.1.35:SIRB036DS >
+ 
+DSN: SIRB037
+< 1232319, 94708312, Checkpoint                    , sirb037ds.ds0 >
+< 1232335, 283370440, Checkpoint                    , sirb037ds.ds1 >
+< 1232341, 246875832, XLA                           , tksrb351_DSN37 >
+< 1232341, 246875832, XLA                           , tksrb351_DSN_TRB37 >
+< 1232341, 296580152, Replication                   , 10.37.1.35:SIRB037DS >
+================= rbs-siapp19 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB034
+< 1179443, 142538784, Checkpoint                    , sirb034ds.ds1 >
+< 1179458, 174940856, Checkpoint                    , sirb034ds.ds0 >
+< 1179463, 48969584, XLA                           , tksrb371_DSN34 >
+< 1179463, 48969584, XLA                           , tksrb371_DSN_TRB34 >
+< 1179463, 86020112, Replication                   , 10.37.1.42:SIRB034DS >
+ 
+DSN: SIRB036
+< 1105353, 96238008, Checkpoint                    , sirb036ds.ds0 >
+< 1105365, 234845728, Checkpoint                    , sirb036ds.ds1 >
+< 1105368, 148259992, XLA                           , tksrb371_DSN36 >
+< 1105368, 148259992, XLA                           , tksrb371_DSN_TRB36 >
+< 1105368, 173618592, Replication                   , 10.37.1.34:SIRB036DS >
+ 
+DSN: SIRB037
+< 1253602, 14305840, Checkpoint                    , sirb037ds.ds1 >
+< 1253619, 175734376, Checkpoint                    , sirb037ds.ds0 >
+< 1253622, 42893312, XLA                           , tksrb371_DSN_TRB37 >
+< 1253622, 51610312, XLA                           , tksrb371_DSN37 >
+< 1253622, 51941184, Replication                   , 10.37.1.34:SIRB037DS >
+ 
+DSN: SIRB038
+< 1183195, 29339256, Checkpoint                    , sirb038ds.ds0 >
+< 1183210, 485504160, Checkpoint                    , sirb038ds.ds1 >
+< 1183226, 257119264, XLA                           , tksrb371_DSN_TRB38 >
+< 1183226, 260375008, XLA                           , tksrb371_DSN38 >
+< 1183226, 262862296, Replication                   , 10.37.1.42:SIRB038DS >
+================= rbs-siapp20 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB039
+< 1327487, 167325496, Checkpoint                    , sirb039ds.ds0 >
+< 1327503, 78388528, Checkpoint                    , sirb039ds.ds1 >
+< 1327516, 10407736, XLA                           , tksrb391_DSN_TRB39 >
+< 1327516, 14808360, Replication                   , 10.37.1.38:SIRB039DS >
+< 1327516, 15445640, XLA                           , tksrb391_DSN39 >
+ 
+DSN: SIRB040
+< 1197995, 220835736, Checkpoint                    , sirb040ds.ds0 >
+< 1198011, 426520544, Checkpoint                    , sirb040ds.ds1 >
+< 1198024, 58776784, XLA                           , tksrb391_DSN_TRB40 >
+< 1198024, 69372800, XLA                           , tksrb391_DSN40 >
+< 1198024, 69688984, Replication                   , 10.37.1.39:SIRB040DS >
+ 
+DSN: SIRB041
+< 1216731, 158311576, Checkpoint                    , sirb041ds.ds1 >
+< 1216748, 327355000, Checkpoint                    , sirb041ds.ds0 >
+< 1216754, 154164248, XLA                           , tksrb391_DSN41 >
+< 1216754, 154164248, XLA                           , tksrb391_DSN_TRB41 >
+< 1216754, 206358992, Replication                   , 10.37.1.38:SIRB041DS >
+ 
+DSN: SIRB044
+< 1147771, 70013664, Checkpoint                    , sirb044ds.ds1 >
+< 1147784, 303456696, Checkpoint                    , sirb044ds.ds0 >
+< 1147788, 139730952, XLA                           , tksrb391_DSN44 >
+< 1147788, 139730952, XLA                           , tksrb391_DSN_TRB44 >
+< 1147788, 165525736, Replication                   , 10.37.1.39:SIRB044DS >
+================= rbs-siapp21 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB041
+< 1238652, 243058224, Checkpoint                    , sirb041ds.ds1 >
+< 1238670, 370080912, Checkpoint                    , sirb041ds.ds0 >
+< 1238679, 362239560, XLA                           , tksrb411_DSN_TRB41 >
+< 1238679, 374756568, XLA                           , tksrb411_DSN41 >
+< 1238679, 378203296, Replication                   , 10.37.1.43:SIRB041DS >
+ 
+DSN: SIRB042
+< 1198151, 423366768, Checkpoint                    , sirb042ds.ds1 >
+< 1198168, 178899704, Checkpoint                    , sirb042ds.ds0 >
+< 1198174, 434873328, XLA                           , tksrb411_DSN_TRB42 >
+< 1198174, 441396568, XLA                           , tksrb411_DSN42 >
+< 1198174, 441852640, Replication                   , 10.37.1.39:SIRB042DS >
+ 
+DSN: SIRB039
+< 1304302, 457624120, Checkpoint                    , sirb039ds.ds1 >
+< 1304317, 473091736, Checkpoint                    , sirb039ds.ds0 >
+< 1304325, 248790024, XLA                           , tksrb411_DSN39 >
+< 1304325, 248790024, XLA                           , tksrb411_DSN_TRB39 >
+< 1304325, 298734288, Replication                   , 10.37.1.43:SIRB039DS >
+ 
+DSN: SIRB043
+< 1159798, 119843976, Checkpoint                    , sirb043ds.ds1 >
+< 1159811, 27505800, Checkpoint                    , sirb043ds.ds0 >
+< 1159813, 321099344, XLA                           , tksrb411_DSN43 >
+< 1159813, 321099344, XLA                           , tksrb411_DSN_TRB43 >
+< 1159813, 357185856, Replication                   , 10.37.1.39:SIRB043DS >
+================= rbs-siapp22 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB043
+< 1197454, 61838104, Checkpoint                    , sirb043ds.ds1 >
+< 1197467, 293849248, Checkpoint                    , sirb043ds.ds0 >
+< 1197469, 321442672, XLA                           , tksrb431_DSN_TRB43 >
+< 1197469, 330169640, XLA                           , tksrb431_DSN43 >
+< 1197469, 330752704, Replication                   , 10.37.1.38:SIRB043DS >
+ 
+DSN: SIRB044
+< 1169293, 467834128, Checkpoint                    , sirb044ds.ds0 >
+< 1169306, 58928736, Checkpoint                    , sirb044ds.ds1 >
+< 1169307, 155605208, XLA                           , tksrb431_DSN_TRB44 >
+< 1169307, 161907160, XLA                           , tksrb431_DSN44 >
+< 1169307, 162144472, Replication                   , 10.37.1.43:SIRB044DS >
+ 
+DSN: SIRB040
+< 1179117, 179860536, Checkpoint                    , sirb040ds.ds1 >
+< 1179132, 460518248, Checkpoint                    , sirb040ds.ds0 >
+< 1179141, 36979280, XLA                           , tksrb431_DSN40 >
+< 1179141, 36979280, XLA                           , tksrb431_DSN_TRB40 >
+< 1179141, 68529864, Replication                   , 10.37.1.43:SIRB040DS >
+ 
+DSN: SIRB042
+< 1157963, 309650056, Checkpoint                    , sirb042ds.ds1 >
+< 1157978, 522116624, Checkpoint                    , sirb042ds.ds0 >
+< 1157985, 481573280, XLA                           , tksrb431_DSN42 >
+< 1157985, 481573280, XLA                           , tksrb431_DSN_TRB42 >
+< 1157985, 519051464, Replication                   , 10.37.1.38:SIRB042DS >
+================= rbs-siapp23 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB045
+< 1001656, 461952776, Checkpoint                    , sirb045ds.ds0 >
+< 1001671, 59240912, Checkpoint                    , sirb045ds.ds1 >
+< 1001682, 301976928, XLA                           , tksrb451_DSN_TRB245 >
+< 1001682, 308443312, XLA                           , tksrb451_DSN245 >
+< 1001682, 308964072, Replication                   , 10.37.1.28:SIRB045DS >
+ 
+DSN: SIRB046
+< 968943, 491123544, Checkpoint                    , sirb046ds.ds1 >
+< 968959, 339069352, Checkpoint                    , sirb046ds.ds0 >
+< 968971, 76841024, XLA                           , tksrb451_DSN_TRB246 >
+< 968971, 88949144, XLA                           , tksrb451_DSN246 >
+< 968971, 89056496, Replication                   , 10.37.1.129:SIRB046DS >
+ 
+DSN: SIRB047
+< 909561, 115327016, Checkpoint                    , sirb047ds.ds1 >
+< 909574, 174117424, Checkpoint                    , sirb047ds.ds0 >
+< 909575, 446006400, XLA                           , tksrb451_DSN247 >
+< 909575, 446006400, XLA                           , tksrb451_DSN_TRB247 >
+< 909575, 468927808, Replication                   , 10.37.1.129:SIRB047DS >
+ 
+DSN: SIRB025
+< 1168903, 243199736, Checkpoint                    , sirb025ds.ds0 >
+< 1168917, 495313184, Checkpoint                    , sirb025ds.ds1 >
+< 1168919, 184098920, XLA                           , tksrb451_DSN25 >
+< 1168919, 184098920, XLA                           , tksrb451_DSN_TRB25 >
+< 1168919, 207032376, Replication                   , 10.37.1.28:SIRB025DS >
+================= rbs-siapp24 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB046
+< 917531, 273572656, Checkpoint                    , sirb046ds.ds0 >
+< 917546, 178335768, Checkpoint                    , sirb046ds.ds1 >
+< 917555, 4792256, XLA                           , tksrb471_DSN246 >
+< 917555, 4792256, XLA                           , tksrb471_DSN_TRB246 >
+< 917555, 39397936, Replication                   , 10.37.1.128:SIRB046DS >
+ 
+DSN: SIRB047
+< 960202, 162189824, Checkpoint                    , sirb047ds.ds1 >
+< 960216, 219888480, Checkpoint                    , sirb047ds.ds0 >
+< 960223, 124034280, XLA                           , tksrb471_DSN_TRB247 >
+< 960223, 127224168, XLA                           , tksrb471_DSN247 >
+< 960223, 127235056, Replication                   , 10.37.1.128:SIRB047DS >
+ 
+DSN: SIRB048
+< 941377, 383153912, Checkpoint                    , sirb048ds.ds1 >
+< 941391, 345389320, Checkpoint                    , sirb048ds.ds0 >
+< 941397, 214099696, XLA                           , tksrb471_DSN_TRB248 >
+< 941397, 245049168, XLA                           , tksrb471_DSN248 >
+< 941397, 245424496, Replication                   , 10.37.1.28:SIRB048DS >
+ 
+DSN: SIRB026
+< 1213163, 108647784, Checkpoint                    , sirb026ds.ds1 >
+< 1213178, 420903312, Checkpoint                    , sirb026ds.ds0 >
+< 1213187, 245560120, XLA                           , tksrb471_DSN26 >
+< 1213187, 245560120, XLA                           , tksrb471_DSN_TRB26 >
+< 1213187, 290702144, Replication                   , 10.37.1.28:SIRB026DS >
+================= rbs-siapp25 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB049
+< 941708, 303318144, Checkpoint                    , sirb049ds.ds1 >
+< 941725, 25726104, Checkpoint                    , sirb049ds.ds0 >
+< 941727, 389683072, XLA                           , tksrb491_DSN_TRB249 >
+< 941727, 398903024, XLA                           , tksrb491_DSN249 >
+< 941727, 399165640, Replication                   , 10.37.1.136:SIRB049DS >
+ 
+DSN: SIRB050
+< 864400, 117750504, Checkpoint                    , sirb050ds.ds0 >
+< 864414, 70067304, Checkpoint                    , sirb050ds.ds1 >
+< 864415, 133057120, XLA                           , tksrb491_DSN_TRB250 >
+< 864415, 134305408, XLA                           , tksrb491_DSN250 >
+< 864415, 134658888, Replication                   , 10.37.1.137:SIRB050DS >
+ 
+DSN: SIRB051
+< 914777, 369037584, Checkpoint                    , sirb051ds.ds1 >
+< 914791, 414543688, Checkpoint                    , sirb051ds.ds0 >
+< 914794, 521911848, XLA                           , tksrb491_DSN251 >
+< 914794, 521911848, XLA                           , tksrb491_DSN_TRB251 >
+< 914795, 33773784, Replication                   , 10.37.1.136:SIRB051DS >
+ 
+DSN: SIRB054
+< 817099, 41821056, Checkpoint                    , sirb054ds.ds0 >
+< 817113, 187115736, Checkpoint                    , sirb054ds.ds1 >
+< 817116, 43812560, XLA                           , tksrb491_DSN254 >
+< 817116, 43812560, XLA                           , tksrb491_DSN_TRB254 >
+< 817116, 69179224, Replication                   , 10.37.1.137:SIRB054DS >
+================= rbs-siapp26 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB051
+< 936491, 130427808, Checkpoint                    , sirb051ds.ds0 >
+< 936506, 153874848, Checkpoint                    , sirb051ds.ds1 >
+< 936518, 334891736, XLA                           , tksrb511_DSN_TRB251 >
+< 936518, 340197672, XLA                           , tksrb511_DSN251 >
+< 936518, 340911616, Replication                   , 10.37.1.135:SIRB051DS >
+ 
+DSN: SIRB052
+< 874763, 375260776, Checkpoint                    , sirb052ds.ds1 >
+< 874777, 173016864, Checkpoint                    , sirb052ds.ds0 >
+< 874788, 77511016, XLA                           , tksrb511_DSN_TRB252 >
+< 874788, 83354536, Replication                   , 10.37.1.137:SIRB052DS >
+< 874788, 83428528, XLA                           , tksrb511_DSN252 >
+ 
+DSN: SIRB049
+< 920379, 139428504, Checkpoint                    , sirb049ds.ds0 >
+< 920394, 509000896, Checkpoint                    , sirb049ds.ds1 >
+< 920403, 222689768, XLA                           , tksrb511_DSN249 >
+< 920403, 222689768, XLA                           , tksrb511_DSN_TRB249 >
+< 920403, 259960288, Replication                   , 10.37.1.135:SIRB049DS >
+ 
+DSN: SIRB053
+< 903532, 268391416, Checkpoint                    , sirb053ds.ds1 >
+< 903546, 287869280, Checkpoint                    , sirb053ds.ds0 >
+< 903553, 18484512, XLA                           , tksrb511_DSN253 >
+< 903553, 18484512, XLA                           , tksrb511_DSN_TRB253 >
+< 903553, 57353144, Replication                   , 10.37.1.137:SIRB053DS >
+================= rbs-siapp27 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB053
+< 923906, 305796320, Checkpoint                    , sirb053ds.ds1 >
+< 923921, 257549144, Checkpoint                    , sirb053ds.ds0 >
+< 923928, 456605304, XLA                           , tksrb531_DSN_TRB253 >
+< 923928, 468127144, XLA                           , tksrb531_DSN253 >
+< 923928, 468253384, Replication                   , 10.37.1.136:SIRB053DS >
+ 
+DSN: SIRB054
+< 868955, 330944584, Checkpoint                    , sirb054ds.ds1 >
+< 868970, 481322856, Checkpoint                    , sirb054ds.ds0 >
+< 868977, 209968, XLA                           , tksrb531_DSN_TRB254 >
+< 868977, 6325280, Replication                   , 10.37.1.135:SIRB054DS >
+< 868977, 6388800, XLA                           , tksrb531_DSN254 >
+ 
+DSN: SIRB050
+< 811631, 476337496, Checkpoint                    , sirb050ds.ds0 >
+< 811645, 53213064, Checkpoint                    , sirb050ds.ds1 >
+< 811647, 140212400, XLA                           , tksrb531_DSN250 >
+< 811647, 140212400, XLA                           , tksrb531_DSN_TRB250 >
+< 811647, 177891632, Replication                   , 10.37.1.135:SIRB050DS >
+ 
+DSN: SIRB052
+< 853945, 206589280, Checkpoint                    , sirb052ds.ds0 >
+< 853959, 23594344, Checkpoint                    , sirb052ds.ds1 >
+< 853961, 427101328, XLA                           , tksrb531_DSN252 >
+< 853961, 427101328, XLA                           , tksrb531_DSN_TRB252 >
+< 853961, 460448064, Replication                   , 10.37.1.136:SIRB052DS >
+================= rbs-siapp28 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB055
+< 190443, 845557768, Checkpoint                    , sirb055ds.ds1 >
+< 190449, 207657496, Checkpoint                    , sirb055ds.ds0 >
+< 190455, 537856784, XLA                           , tksrb551_DSN_TRB255 >
+< 190455, 569938320, Replication                   , 10.37.1.199:SIRB055DS >
+< 190455, 569972800, XLA                           , tksrb551_DSN255 >
+ 
+DSN: SIRB056
+< 205749, 686036840, Checkpoint                    , sirb056ds.ds0 >
+< 205756, 98739328, Checkpoint                    , sirb056ds.ds1 >
+< 205762, 821108176, XLA                           , tksrb551_DSN_TRB256 >
+< 205762, 842081416, XLA                           , tksrb551_DSN256 >
+< 205762, 842422496, Replication                   , 10.37.1.200:SIRB056DS >
+ 
+DSN: SIRB057
+< 181068, 911130360, Checkpoint                    , sirb057ds.ds1 >
+< 181073, 995526976, Checkpoint                    , sirb057ds.ds0 >
+< 181079, 433398752, XLA                           , tksrb551_DSN257 >
+< 181079, 433398752, XLA                           , tksrb551_DSN_TRB257 >
+< 181079, 498646040, Replication                   , 10.37.1.199:SIRB057DS >
+ 
+DSN: SIRB060
+< 168662, 623432544, Checkpoint                    , sirb060ds.ds0 >
+< 168667, 656273056, Checkpoint                    , sirb060ds.ds1 >
+< 168673, 420901368, XLA                           , tksrb551_DSN260 >
+< 168673, 420901368, XLA                           , tksrb551_DSN_TRB260 >
+< 168673, 502795752, Replication                   , 10.37.1.200:SIRB060DS >
+================= rbs-siapp29 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB057
+< 192966, 542548864, Checkpoint                    , sirb057ds.ds1 >
+< 192971, 927747360, Checkpoint                    , sirb057ds.ds0 >
+< 192973, 603429000, XLA                           , tksrb571_DSN_TRB257 >
+< 192973, 625725368, XLA                           , tksrb571_DSN257 >
+< 192973, 626713768, Replication                   , 10.37.1.189:SIRB057DS >
+ 
+DSN: SIRB058
+< 179342, 310015488, Checkpoint                    , sirb058ds.ds0 >
+< 179347, 78744752, Checkpoint                    , sirb058ds.ds1 >
+< 179352, 722327152, XLA                           , tksrb571_DSN_TRB258 >
+< 179352, 730112488, Replication                   , 10.37.1.200:SIRB058DS >
+< 179352, 730112488, XLA                           , tksrb571_DSN258 >
+ 
+DSN: SIRB055
+< 178960, 577755976, Checkpoint                    , sirb055ds.ds0 >
+< 178965, 664296312, Checkpoint                    , sirb055ds.ds1 >
+< 178971, 758982112, XLA                           , tksrb571_DSN255 >
+< 178971, 758982112, XLA                           , tksrb571_DSN_TRB255 >
+< 178971, 841623032, Replication                   , 10.37.1.189:SIRB055DS >
+ 
+DSN: SIRB059
+< 162046, 915926160, Checkpoint                    , sirb059ds.ds1 >
+< 162051, 531450784, Checkpoint                    , sirb059ds.ds0 >
+< 162056, 601939520, XLA                           , tksrb571_DSN259 >
+< 162056, 601939520, XLA                           , tksrb571_DSN_TRB259 >
+< 162056, 698172480, Replication                   , 10.37.1.200:SIRB059DS >
+================= rbs-siapp30 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB059
+< 172778, 871805640, Checkpoint                    , sirb059ds.ds1 >
+< 172783, 790150152, Checkpoint                    , sirb059ds.ds0 >
+< 172788, 380995112, XLA                           , tksrb591_DSN_TRB259 >
+< 172788, 404771832, Replication                   , 10.37.1.199:SIRB059DS >
+< 172788, 407025512, XLA                           , tksrb591_DSN259 >
+ 
+DSN: SIRB060
+< 179586, 500730728, Checkpoint                    , sirb060ds.ds0 >
+< 179591, 846094624, Checkpoint                    , sirb060ds.ds1 >
+< 179597, 247203352, XLA                           , tksrb591_DSN_TRB260 >
+< 179597, 287356008, XLA                           , tksrb591_DSN260 >
+< 179597, 288840440, Replication                   , 10.37.1.189:SIRB060DS >
+ 
+DSN: SIRB056
+< 192568, 552237496, Checkpoint                    , sirb056ds.ds1 >
+< 192574, 627048712, Checkpoint                    , sirb056ds.ds0 >
+< 192581, 580476832, XLA                           , tksrb591_DSN256 >
+< 192581, 580476832, XLA                           , tksrb591_DSN_TRB256 >
+< 192581, 665081808, Replication                   , 10.37.1.189:SIRB056DS >
+ 
+DSN: SIRB058
+< 168099, 442118040, Checkpoint                    , sirb058ds.ds1 >
+< 168103, 1025158872, Checkpoint                    , sirb058ds.ds0 >
+< 168109, 164601440, XLA                           , tksrb591_DSN258 >
+< 168109, 164601440, XLA                           , tksrb591_DSN_TRB258 >
+< 168109, 210583656, Replication                   , 10.37.1.199:SIRB058DS >
+================= rbs-siapp31 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB061
+< 494453, 188248552, Checkpoint                    , sirb061ds.ds1 >
+< 494483, 198315816, Checkpoint                    , sirb061ds.ds0 >
+< 494513, 213614144, XLA                           , tksrb611_DSN_TRB261 >
+< 494513, 250920664, XLA                           , tksrb611_DSN261 >
+< 494513, 251631072, Replication                   , 10.37.1.192:SIRB061DS >
+ 
+DSN: SIRB062
+< 483031, 68109000, Checkpoint                    , sirb062ds.ds1 >
+< 483062, 177760528, Checkpoint                    , sirb062ds.ds0 >
+< 483090, 476845624, XLA                           , tksrb611_DSN_TRB262 >
+< 483090, 503120280, Replication                   , 10.37.1.192:SIRB062DS >
+< 483090, 503402888, XLA                           , tksrb611_DSN262 >
+ 
+DSN: SIRB063
+< 492488, 483007456, Checkpoint                    , sirb063ds.ds0 >
+< 492518, 504597176, Checkpoint                    , sirb063ds.ds1 >
+< 492543, 478808736, XLA                           , tksrb611_DSN_TRB263 >
+< 492543, 495940448, XLA                           , tksrb611_DSN263 >
+< 492543, 496007344, Replication                   , 10.37.1.192:SIRB063DS >
+ 
+DSN: SIRB064
+< 468727, 38249712, Checkpoint                    , sirb064ds.ds0 >
+< 468756, 180653592, Checkpoint                    , sirb064ds.ds1 >
+< 468764, 212070128, XLA                           , tksrb611_DSN264 >
+< 468764, 212070128, XLA                           , tksrb611_DSN_TRB264 >
+< 468764, 287403712, Replication                   , 10.37.1.192:SIRB064DS >
+ 
+DSN: SIRB065
+< 466380, 455650192, Checkpoint                    , sirb065ds.ds1 >
+< 466409, 89296632, Checkpoint                    , sirb065ds.ds0 >
+< 466434, 218535968, XLA                           , tksrb611_DSN265 >
+< 466434, 218535968, XLA                           , tksrb611_DSN_TRB265 >
+< 466434, 304079568, Replication                   , 10.37.1.192:SIRB065DS >
+ 
+DSN: SIRB066
+< 454943, 105158904, Checkpoint                    , sirb066ds.ds0 >
+< 454970, 321075664, Checkpoint                    , sirb066ds.ds1 >
+< 454984, 12867696, XLA                           , tksrb611_DSN266 >
+< 454984, 12867696, XLA                           , tksrb611_DSN_TRB266 >
+< 454984, 79704808, Replication                   , 10.37.1.192:SIRB066DS >
+================= rbs-siapp32 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: SIRB061
+< 494159, 133291832, Checkpoint                    , sirb061ds.ds1 >
+< 494187, 476059104, Checkpoint                    , sirb061ds.ds0 >
+< 494200, 230817896, XLA                           , tksrb641_DSN261 >
+< 494200, 230817896, XLA                           , tksrb641_DSN_TRB261 >
+< 494200, 324237920, Replication                   , 10.37.1.191:SIRB061DS >
+ 
+DSN: SIRB062
+< 482724, 223500288, Checkpoint                    , sirb062ds.ds1 >
+< 482754, 39943336, Checkpoint                    , sirb062ds.ds0 >
+< 482766, 382986688, XLA                           , tksrb641_DSN262 >
+< 482766, 382986688, XLA                           , tksrb641_DSN_TRB262 >
+< 482766, 466924336, Replication                   , 10.37.1.191:SIRB062DS >
+ 
+DSN: SIRB063
+< 492194, 521926440, Checkpoint                    , sirb063ds.ds1 >
+< 492223, 350749960, Checkpoint                    , sirb063ds.ds0 >
+< 492236, 25932728, XLA                           , tksrb641_DSN263 >
+< 492236, 25932728, XLA                           , tksrb641_DSN_TRB263 >
+< 492236, 105790048, Replication                   , 10.37.1.191:SIRB063DS >
+ 
+DSN: SIRB064
+< 469036, 405407416, Checkpoint                    , sirb064ds.ds1 >
+< 469067, 308401800, Checkpoint                    , sirb064ds.ds0 >
+< 469082, 516769904, XLA                           , tksrb641_DSN_TRB264 >
+< 469083, 22666296, Replication                   , 10.37.1.191:SIRB064DS >
+< 469083, 23177664, XLA                           , tksrb641_DSN264 >
+ 
+DSN: SIRB065
+< 466702, 366931840, Checkpoint                    , sirb065ds.ds0 >
+< 466732, 452045064, Checkpoint                    , sirb065ds.ds1 >
+< 466745, 20746416, XLA                           , tksrb641_DSN_TRB265 >
+< 466745, 24197680, XLA                           , tksrb641_DSN265 >
+< 466745, 25406280, Replication                   , 10.37.1.191:SIRB065DS >
+ 
+DSN: SIRB066
+< 455214, 286618680, Checkpoint                    , sirb066ds.ds1 >
+< 455243, 65964248, Checkpoint                    , sirb066ds.ds0 >
+< 455251, 415948016, XLA                           , tksrb641_DSN_TRB266 >
+< 455251, 437235448, XLA                           , tksrb641_DSN266 >
+< 455251, 437736776, Replication                   , 10.37.1.191:SIRB066DS >
+================= rbs-siapp41 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: PPRB01
+< 610120, 167391672, Checkpoint                    , pprb01ds.ds0 >
+< 610145, 996325680, Checkpoint                    , pprb01ds.ds1 >
+< 610175, 55355760, XLA                           , tksrb811_DSN_TRB881 >
+< 610175, 87275784, Replication                   , 10.37.1.117:PPRB01DS >
+< 610175, 91310376, XLA                           , tksrb811_DSN881 >
+================= rbs-siapp42 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: PPRB01
+< 610134, 845433432, Checkpoint                    , pprb01ds.ds1 >
+< 610160, 131124696, Checkpoint                    , pprb01ds.ds0 >
+< 610176, 701189416, XLA                           , tksrb812_DSN_TRB881 >
+< 610176, 749166664, XLA                           , tksrb812_DSN881 >
+< 610176, 749335624, Replication                   , 10.37.1.116:PPRB01DS >
+ 
+DSN: PPRB20
+< 349424, 144010408, Checkpoint                    , pprb20ds.ds0 >
+< 349436, 522418904, Checkpoint                    , pprb20ds.ds1 >
+< 349442, 386642624, XLA                           , tksrb812_DSN_TRB882 >
+< 349442, 405534152, XLA                           , tksrb812_DSN882 >
+< 349442, 405807776, Replication                   , 10.37.1.118:PPRB20DS >
+ 
+DSN: PPRB06
+< 176528, 801054440, Checkpoint                    , pprb06ds.ds0 >
+< 176530, 704617696, Checkpoint                    , pprb06ds.ds1 >
+< 176531, 493327672, XLA                           , tksrb812_DSN_TRB883 >
+< 176531, 494447384, XLA                           , tksrb812_DSN883 >
+< 176531, 495141848, Replication                   , 10.37.1.102:PPRB06DS >
+ 
+DSN: PPRB11
+< 193813, 416697712, Checkpoint                    , pprb11ds.ds1 >
+< 193816, 400244504, Checkpoint                    , pprb11ds.ds0 >
+< 193819, 709050464, XLA                           , tksrb812_DSN_TRB885 >
+< 193819, 734694216, XLA                           , tksrb812_DSN885 >
+< 193819, 735263336, Replication                   , 10.37.1.119:PPRB11DS >
+================= rbs-siapp43 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: PPRB20
+< 349397, 130770760, Checkpoint                    , pprb20ds.ds1 >
+< 349398, 796665792, Checkpoint                    , pprb20ds.ds0 >
+< 349407, 354344104, XLA                           , tksrb821_DSN_TRB882 >
+< 349407, 377691504, XLA                           , tksrb821_DSN882 >
+< 349407, 378535352, Replication                   , 10.37.1.117:PPRB20DS >
+================= rbs-siapp44 Wed May 18 13:03:17 wib 2016 =================
+ 
+DSN: PPRB16
+< 510249, 72668464, Checkpoint                    , pprb16ds.ds1 >
+< 510257, 970241744, Checkpoint                    , pprb16ds.ds0 >
+< 510262, 801912744, Replication                   , 10.37.1.101:PPRB16DS >
+ 
+DSN: PPRB11
+< 193810, 162069864, Checkpoint                    , pprb11ds.ds0 >
+< 193818, 819178216, Checkpoint                    , pprb11ds.ds1 >
+< 193823, 433651336, XLA                           , tksrb831_DSN_TRB885 >
+< 193823, 440691744, XLA                           , tksrb831_DSN885 >
+< 193823, 441335232, Replication                   , 10.37.1.117:PPRB11DS >

@@ -1,0 +1,783 @@
+================= ocsrbmkpapp1 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB001
+< 1072868, 78122776, Checkpoint                    , marb001ds.ds0 >
+< 1072881, 145745536, Checkpoint                    , marb001ds.ds1 >
+< 1072883, 247064568, XLA                           , tksrb011_DSN_TRB45 >
+< 1072883, 255674992, Replication                   , 10.114.131.20:MARB001DS >
+< 1072883, 255725136, XLA                           , tksrb011_DSN45 >
+ 
+DSN: MARB003
+< 1013615, 235311648, Checkpoint                    , marb003ds.ds0 >
+< 1013628, 288328032, Checkpoint                    , marb003ds.ds1 >
+< 1013633, 332955784, XLA                           , tksrb011_DSN47 >
+< 1013633, 332955784, XLA                           , tksrb011_DSN_TRB47 >
+< 1013633, 359656136, Replication                   , 10.114.131.20:MARB003DS >
+ 
+DSN: MARB002
+< 1086116, 174153160, Checkpoint                    , marb002ds.ds0 >
+< 1086129, 420738840, Checkpoint                    , marb002ds.ds1 >
+< 1086143, 428281288, XLA                           , tksrb011_DSN_TRB46 >
+< 1086143, 429638872, XLA                           , tksrb011_DSN46 >
+< 1086143, 430219872, Replication                   , 10.114.131.21:MARB002DS >
+ 
+DSN: MARB006
+< 1018608, 148519784, Checkpoint                    , marb006ds.ds0 >
+< 1018620, 246006080, Checkpoint                    , marb006ds.ds1 >
+< 1018623, 400621224, XLA                           , tksrb011_DSN50 >
+< 1018623, 400621224, XLA                           , tksrb011_DSN_TRB50 >
+< 1018623, 434656320, Replication                   , 10.114.131.21:MARB006DS >
+================= ocsrbmkpapp2 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB001
+< 1017948, 260253216, Checkpoint                    , marb001ds.ds0 >
+< 1017960, 417541536, Checkpoint                    , marb001ds.ds1 >
+< 1017962, 146650008, XLA                           , tksrb031_DSN45 >
+< 1017962, 146650008, XLA                           , tksrb031_DSN_TRB45 >
+< 1017962, 178351624, Replication                   , 10.114.131.19:MARB001DS >
+ 
+DSN: MARB003
+< 1064077, 183892032, Checkpoint                    , marb003ds.ds0 >
+< 1064091, 117761416, Checkpoint                    , marb003ds.ds1 >
+< 1064102, 411106520, XLA                           , tksrb031_DSN_TRB47 >
+< 1064102, 435367888, XLA                           , tksrb031_DSN47 >
+< 1064102, 436641168, Replication                   , 10.114.131.19:MARB003DS >
+ 
+DSN: MARB004
+< 1084245, 155296208, Checkpoint                    , marb004ds.ds0 >
+< 1084258, 275788320, Checkpoint                    , marb004ds.ds1 >
+< 1084268, 107607944, XLA                           , tksrb031_DSN_TRB48 >
+< 1084268, 117682424, XLA                           , tksrb031_DSN48 >
+< 1084268, 117945936, Replication                   , 10.114.131.21:MARB004DS >
+ 
+DSN: MARB005
+< 1024240, 492865456, Checkpoint                    , marb005ds.ds1 >
+< 1024252, 478108120, Checkpoint                    , marb005ds.ds0 >
+< 1024254, 148631352, XLA                           , tksrb031_DSN49 >
+< 1024254, 148631352, XLA                           , tksrb031_DSN_TRB49 >
+< 1024254, 181237648, Replication                   , 10.114.131.21:MARB005DS >
+================= ocsrbmkpapp3 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB002
+< 1031761, 26813760, Checkpoint                    , marb002ds.ds1 >
+< 1031773, 371380008, Checkpoint                    , marb002ds.ds0 >
+< 1031775, 91288736, XLA                           , tksrb051_DSN46 >
+< 1031775, 91288736, XLA                           , tksrb051_DSN_TRB46 >
+< 1031775, 118286656, Replication                   , 10.114.131.19:MARB002DS >
+ 
+DSN: MARB006
+< 1072401, 358360952, Checkpoint                    , marb006ds.ds1 >
+< 1072414, 343173440, Checkpoint                    , marb006ds.ds0 >
+< 1072419, 415883584, XLA                           , tksrb051_DSN_TRB50 >
+< 1072419, 423680456, XLA                           , tksrb051_DSN50 >
+< 1072419, 424135424, Replication                   , 10.114.131.19:MARB006DS >
+ 
+DSN: MARB004
+< 1032559, 236431712, Checkpoint                    , marb004ds.ds0 >
+< 1032571, 445141288, Checkpoint                    , marb004ds.ds1 >
+< 1032572, 228177000, XLA                           , tksrb051_DSN48 >
+< 1032572, 228177000, XLA                           , tksrb051_DSN_TRB48 >
+< 1032572, 272437528, Replication                   , 10.114.131.20:MARB004DS >
+ 
+DSN: MARB005
+< 1080541, 361503416, Checkpoint                    , marb005ds.ds0 >
+< 1080554, 191862288, Checkpoint                    , marb005ds.ds1 >
+< 1080560, 478772736, Replication                   , 10.114.131.20:MARB005DS >
+< 1080560, 478935624, XLA                           , tksrb051_DSN49 >
+< 1080560, 478981448, XLA                           , tksrb051_DSN_TRB49 >
+================= ocsrbmkpapp4 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB007
+< 1030767, 92623472, Checkpoint                    , marb007ds.ds0 >
+< 1030779, 357962968, Checkpoint                    , marb007ds.ds1 >
+< 1030781, 434539384, XLA                           , tksrb071_DSN_TRB51 >
+< 1030781, 441876888, XLA                           , tksrb071_DSN51 >
+< 1030781, 442658824, Replication                   , 10.114.131.23:MARB007DS >
+ 
+DSN: MARB008
+< 1077747, 100593048, Checkpoint                    , marb008ds.ds0 >
+< 1077760, 384258192, Checkpoint                    , marb008ds.ds1 >
+< 1077774, 315542504, XLA                           , tksrb071_DSN_TRB52 >
+< 1077774, 326328000, XLA                           , tksrb071_DSN52 >
+< 1077774, 327464832, Replication                   , 10.114.131.24:MARB008DS >
+ 
+DSN: MARB009
+< 1037664, 507271440, Checkpoint                    , marb009ds.ds0 >
+< 1037677, 295410816, Checkpoint                    , marb009ds.ds1 >
+< 1037679, 80700472, XLA                           , tksrb071_DSN53 >
+< 1037679, 80700472, XLA                           , tksrb071_DSN_TRB53 >
+< 1037679, 122900536, Replication                   , 10.114.131.23:MARB009DS >
+ 
+DSN: MARB012
+< 1007540, 70375904, Checkpoint                    , marb012ds.ds1 >
+< 1007552, 243316872, Checkpoint                    , marb012ds.ds0 >
+< 1007557, 264947280, XLA                           , tksrb071_DSN56 >
+< 1007557, 264947280, XLA                           , tksrb071_DSN_TRB56 >
+< 1007557, 293695744, Replication                   , 10.114.131.24:MARB012DS >
+================= ocsrbmkpapp5 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB009
+< 1087713, 155260664, Checkpoint                    , marb009ds.ds1 >
+< 1087726, 453248296, Checkpoint                    , marb009ds.ds0 >
+< 1087738, 17331552, XLA                           , tksrb091_DSN_TRB53 >
+< 1087738, 25174648, XLA                           , tksrb091_DSN53 >
+< 1087738, 25777528, Replication                   , 10.114.131.22:MARB009DS >
+ 
+DSN: MARB010
+< 1086688, 15336272, Checkpoint                    , marb010ds.ds1 >
+< 1086701, 272248336, Checkpoint                    , marb010ds.ds0 >
+< 1086711, 136326824, XLA                           , tksrb091_DSN_TRB54 >
+< 1086711, 137233824, XLA                           , tksrb091_DSN54 >
+< 1086711, 137588680, Replication                   , 10.114.131.24:MARB010DS >
+ 
+DSN: MARB007
+< 975900, 381487040, Checkpoint                    , marb007ds.ds1 >
+< 975912, 295349112, Checkpoint                    , marb007ds.ds0 >
+< 975924, 205785328, XLA                           , tksrb091_DSN51 >
+< 975924, 205785328, XLA                           , tksrb091_DSN_TRB51 >
+< 975924, 243726152, Replication                   , 10.114.131.22:MARB007DS >
+ 
+DSN: MARB011
+< 1033952, 402269968, Checkpoint                    , marb011ds.ds0 >
+< 1033965, 159441520, Checkpoint                    , marb011ds.ds1 >
+< 1033971, 132039592, XLA                           , tksrb091_DSN55 >
+< 1033971, 132039592, XLA                           , tksrb091_DSN_TRB55 >
+< 1033971, 158418304, Replication                   , 10.114.131.24:MARB011DS >
+================= ocsrbmkpapp6 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB011
+< 1089290, 385669640, Checkpoint                    , marb011ds.ds0 >
+< 1089304, 43497568, Checkpoint                    , marb011ds.ds1 >
+< 1089310, 507031392, XLA                           , tksrb111_DSN_TRB55 >
+< 1089310, 524184904, XLA                           , tksrb111_DSN55 >
+< 1089311, 451632, Replication                   , 10.114.131.23:MARB011DS >
+ 
+DSN: MARB012
+< 1057839, 506616832, Checkpoint                    , marb012ds.ds1 >
+< 1057853, 53867776, Checkpoint                    , marb012ds.ds0 >
+< 1057858, 215259664, XLA                           , tksrb111_DSN_TRB56 >
+< 1057858, 220938920, XLA                           , tksrb111_DSN56 >
+< 1057858, 222101680, Replication                   , 10.114.131.22:MARB012DS >
+ 
+DSN: MARB008
+< 1026153, 388524528, Checkpoint                    , marb008ds.ds1 >
+< 1026166, 94473848, Checkpoint                    , marb008ds.ds0 >
+< 1026166, 403697232, XLA                           , tksrb111_DSN52 >
+< 1026166, 403697232, XLA                           , tksrb111_DSN_TRB52 >
+< 1026166, 425910016, Replication                   , 10.114.131.22:MARB008DS >
+ 
+DSN: MARB010
+< 1028327, 94442320, Checkpoint                    , marb010ds.ds1 >
+< 1028339, 363466776, Checkpoint                    , marb010ds.ds0 >
+< 1028348, 105977248, XLA                           , tksrb111_DSN54 >
+< 1028348, 105977248, XLA                           , tksrb111_DSN_TRB54 >
+< 1028348, 141330912, Replication                   , 10.114.131.23:MARB010DS >
+================= ocsrbmkpapp7 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB013
+< 1086300, 61917456, Checkpoint                    , marb013ds.ds0 >
+< 1086313, 118049152, Checkpoint                    , marb013ds.ds1 >
+< 1086315, 281962144, XLA                           , tksrb131_DSN_TRB57 >
+< 1086315, 297790752, XLA                           , tksrb131_DSN57 >
+< 1086315, 298224440, Replication                   , 10.114.131.26:MARB013DS >
+ 
+DSN: MARB014
+< 1079097, 441931688, Checkpoint                    , marb014ds.ds0 >
+< 1079111, 192327256, Checkpoint                    , marb014ds.ds1 >
+< 1079125, 347091232, XLA                           , tksrb131_DSN_TRB58 >
+< 1079125, 359501592, XLA                           , tksrb131_DSN58 >
+< 1079125, 361203016, Replication                   , 10.114.131.27:MARB014DS >
+ 
+DSN: MARB015
+< 993197, 179923480, Checkpoint                    , marb015ds.ds1 >
+< 993209, 357424024, Checkpoint                    , marb015ds.ds0 >
+< 993214, 2616, XLA                           , tksrb131_DSN59 >
+< 993214, 2616, XLA                           , tksrb131_DSN_TRB59 >
+< 993214, 25791768, Replication                   , 10.114.131.26:MARB015DS >
+ 
+DSN: MARB018
+< 999171, 456873688, Checkpoint                    , marb018ds.ds1 >
+< 999182, 4361080, Checkpoint                    , marb018ds.ds0 >
+< 999185, 424164368, XLA                           , tksrb131_DSN62 >
+< 999185, 424164368, XLA                           , tksrb131_DSN_TRB62 >
+< 999185, 455418216, Replication                   , 10.114.131.27:MARB018DS >
+================= ocsrbmkpapp8 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB013
+< 1033433, 161543312, Checkpoint                    , marb013ds.ds0 >
+< 1033445, 272307512, Checkpoint                    , marb013ds.ds1 >
+< 1033451, 385260800, XLA                           , tksrb151_DSN57 >
+< 1033451, 385260800, XLA                           , tksrb151_DSN_TRB57 >
+< 1033451, 420448328, Replication                   , 10.114.131.25:MARB013DS >
+ 
+DSN: MARB015
+< 1047254, 124437200, Checkpoint                    , marb015ds.ds1 >
+< 1047267, 173266008, Checkpoint                    , marb015ds.ds0 >
+< 1047278, 248845472, XLA                           , tksrb151_DSN_TRB59 >
+< 1047278, 250093752, XLA                           , tksrb151_DSN59 >
+< 1047278, 250549600, Replication                   , 10.114.131.25:MARB015DS >
+ 
+DSN: MARB016
+< 1082971, 427805896, Checkpoint                    , marb016ds.ds1 >
+< 1082985, 57050264, Checkpoint                    , marb016ds.ds0 >
+< 1082994, 406665960, XLA                           , tksrb151_DSN_TRB60 >
+< 1082994, 409162872, XLA                           , tksrb151_DSN60 >
+< 1082994, 409410312, Replication                   , 10.114.131.27:MARB016DS >
+ 
+DSN: MARB017
+< 1015734, 250628352, Checkpoint                    , marb017ds.ds0 >
+< 1015745, 378222320, Checkpoint                    , marb017ds.ds1 >
+< 1015751, 3699000, XLA                           , tksrb151_DSN61 >
+< 1015751, 3699000, XLA                           , tksrb151_DSN_TRB61 >
+< 1015751, 25494024, Replication                   , 10.114.131.27:MARB017DS >
+================= ocsrbmkpapp9 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB014
+< 1027513, 138482976, Checkpoint                    , marb014ds.ds1 >
+< 1027525, 498707856, Checkpoint                    , marb014ds.ds0 >
+< 1027531, 284293432, XLA                           , tksrb171_DSN58 >
+< 1027531, 284293432, XLA                           , tksrb171_DSN_TRB58 >
+< 1027531, 315425504, Replication                   , 10.114.131.25:MARB014DS >
+ 
+DSN: MARB016
+< 1030551, 122529080, Checkpoint                    , marb016ds.ds0 >
+< 1030563, 354444864, Checkpoint                    , marb016ds.ds1 >
+< 1030571, 66795208, XLA                           , tksrb171_DSN60 >
+< 1030571, 66795208, XLA                           , tksrb171_DSN_TRB60 >
+< 1030571, 93771768, Replication                   , 10.114.131.26:MARB016DS >
+ 
+DSN: MARB017
+< 1062075, 232817240, Checkpoint                    , marb017ds.ds1 >
+< 1062087, 149355016, Checkpoint                    , marb017ds.ds0 >
+< 1062093, 192386000, XLA                           , tksrb171_DSN_TRB61 >
+< 1062093, 199229592, XLA                           , tksrb171_DSN61 >
+< 1062093, 199606808, Replication                   , 10.114.131.26:MARB017DS >
+ 
+DSN: MARB018
+< 1049845, 244754304, Checkpoint                    , marb018ds.ds0 >
+< 1049856, 76788808, Checkpoint                    , marb018ds.ds1 >
+< 1049860, 289226928, XLA                           , tksrb171_DSN_TRB62 >
+< 1049860, 294723176, XLA                           , tksrb171_DSN62 >
+< 1049860, 294961576, Replication                   , 10.114.131.25:MARB018DS >
+================= ocsrbmkpapp10 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB019
+< 1058732, 283390048, Checkpoint                    , marb019ds.ds1 >
+< 1058745, 29694952, Checkpoint                    , marb019ds.ds0 >
+< 1058759, 228800864, XLA                           , tksrb191_DSN_TRB63 >
+< 1058759, 249010416, XLA                           , tksrb191_DSN63 >
+< 1058759, 250258128, Replication                   , 10.114.131.29:MARB019DS >
+ 
+DSN: MARB020
+< 1057304, 234760984, Checkpoint                    , marb020ds.ds1 >
+< 1057316, 432517928, Checkpoint                    , marb020ds.ds0 >
+< 1057328, 348010152, XLA                           , tksrb191_DSN_TRB64 >
+< 1057328, 361554584, XLA                           , tksrb191_DSN64 >
+< 1057328, 361856720, Replication                   , 10.114.131.30:MARB020DS >
+ 
+DSN: MARB021
+< 996747, 288333984, Checkpoint                    , marb021ds.ds1 >
+< 996759, 250819384, Checkpoint                    , marb021ds.ds0 >
+< 996772, 230855536, XLA                           , tksrb191_DSN65 >
+< 996772, 230855536, XLA                           , tksrb191_DSN_TRB65 >
+< 996772, 259812120, Replication                   , 10.114.131.29:MARB021DS >
+ 
+DSN: MARB024
+< 1004212, 129249008, Checkpoint                    , marb024ds.ds1 >
+< 1004223, 413546152, Checkpoint                    , marb024ds.ds0 >
+< 1004227, 127838368, XLA                           , tksrb191_DSN68 >
+< 1004227, 127838368, XLA                           , tksrb191_DSN_TRB68 >
+< 1004227, 161495640, Replication                   , 10.114.131.30:MARB024DS >
+================= ocsrbmkpapp11 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB019
+< 1009331, 96647096, Checkpoint                    , marb019ds.ds1 >
+< 1009342, 402865800, Checkpoint                    , marb019ds.ds0 >
+< 1009344, 348336808, XLA                           , tksrb211_DSN63 >
+< 1009344, 348336808, XLA                           , tksrb211_DSN_TRB63 >
+< 1009344, 385909560, Replication                   , 10.114.131.28:MARB019DS >
+ 
+DSN: MARB022
+< 1066185, 206375600, Checkpoint                    , marb022ds.ds0 >
+< 1066198, 202882840, Checkpoint                    , marb022ds.ds1 >
+< 1066206, 497259920, XLA                           , tksrb211_DSN_TRB66 >
+< 1066206, 498595496, XLA                           , tksrb211_DSN66 >
+< 1066206, 499499968, Replication                   , 10.114.131.30:MARB022DS >
+ 
+DSN: MARB021
+< 1049255, 383797752, Checkpoint                    , marb021ds.ds1 >
+< 1049268, 182689944, Checkpoint                    , marb021ds.ds0 >
+< 1049279, 41026240, XLA                           , tksrb211_DSN_TRB65 >
+< 1049279, 45154920, XLA                           , tksrb211_DSN65 >
+< 1049279, 46234448, Replication                   , 10.114.131.28:MARB021DS >
+ 
+DSN: MARB023
+< 1027139, 33883072, Checkpoint                    , marb023ds.ds0 >
+< 1027151, 170458416, Checkpoint                    , marb023ds.ds1 >
+< 1027154, 341374032, XLA                           , tksrb211_DSN67 >
+< 1027154, 341374032, XLA                           , tksrb211_DSN_TRB67 >
+< 1027154, 372779752, Replication                   , 10.114.131.30:MARB023DS >
+================= ocsrbmkpapp12 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB020
+< 1005250, 205695464, Checkpoint                    , marb020ds.ds0 >
+< 1005262, 93746592, Checkpoint                    , marb020ds.ds1 >
+< 1005265, 293590208, XLA                           , tksrb231_DSN64 >
+< 1005265, 293590208, XLA                           , tksrb231_DSN_TRB64 >
+< 1005265, 327331984, Replication                   , 10.114.131.28:MARB020DS >
+ 
+DSN: MARB023
+< 1077115, 408071416, Checkpoint                    , marb023ds.ds0 >
+< 1077128, 367309344, Checkpoint                    , marb023ds.ds1 >
+< 1077135, 228625936, XLA                           , tksrb231_DSN_TRB67 >
+< 1077135, 233892120, XLA                           , tksrb231_DSN67 >
+< 1077135, 234705192, Replication                   , 10.114.131.29:MARB023DS >
+ 
+DSN: MARB024
+< 1057425, 237090616, Checkpoint                    , marb024ds.ds1 >
+< 1057437, 429113112, Checkpoint                    , marb024ds.ds0 >
+< 1057441, 378930728, XLA                           , tksrb231_DSN_TRB68 >
+< 1057441, 389751424, XLA                           , tksrb231_DSN68 >
+< 1057441, 390580064, Replication                   , 10.114.131.28:MARB024DS >
+ 
+DSN: MARB022
+< 1013119, 332062928, Checkpoint                    , marb022ds.ds1 >
+< 1013131, 435160824, Checkpoint                    , marb022ds.ds0 >
+< 1013142, 104334880, XLA                           , tksrb231_DSN66 >
+< 1013142, 104334880, XLA                           , tksrb231_DSN_TRB66 >
+< 1013142, 125232032, Replication                   , 10.114.131.29:MARB022DS >
+================= ocsrbmkpapp13 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB025
+< 1068129, 69181672, Checkpoint                    , marb025ds.ds1 >
+< 1068143, 250042408, Checkpoint                    , marb025ds.ds0 >
+< 1068146, 12932432, XLA                           , tksrb251_DSN_TRB69 >
+< 1068146, 23298440, Replication                   , 10.114.131.91:MARB025DS >
+< 1068146, 23490072, XLA                           , tksrb251_DSN69 >
+ 
+DSN: MARB026
+< 1056107, 301334008, Checkpoint                    , marb026ds.ds1 >
+< 1056120, 313702848, Checkpoint                    , marb026ds.ds0 >
+< 1056134, 113177240, XLA                           , tksrb251_DSN_TRB70 >
+< 1056134, 114380608, XLA                           , tksrb251_DSN70 >
+< 1056134, 114738472, Replication                   , 10.114.131.92:MARB026DS >
+ 
+DSN: MARB045
+< 853855, 238765056, Checkpoint                    , marb045ds.ds0 >
+< 853866, 159923288, Checkpoint                    , marb045ds.ds1 >
+< 853872, 206056352, XLA                           , tksrb251_DSN289 >
+< 853872, 206056352, XLA                           , tksrb251_DSN_TRB289 >
+< 853872, 231470032, Replication                   , 10.114.131.91:MARB045DS >
+ 
+DSN: MARB048
+< 855318, 391029792, Checkpoint                    , marb048ds.ds1 >
+< 855329, 271211144, Checkpoint                    , marb048ds.ds0 >
+< 855332, 298603112, XLA                           , tksrb251_DSN292 >
+< 855332, 298603112, XLA                           , tksrb251_DSN_TRB292 >
+< 855332, 328726008, Replication                   , 10.114.131.92:MARB048DS >
+================= ocsrbmkpapp14 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB027
+< 1085005, 6112536, Checkpoint                    , marb027ds.ds1 >
+< 1085018, 187384288, Checkpoint                    , marb027ds.ds0 >
+< 1085029, 360195672, XLA                           , tksrb271_DSN_TRB71 >
+< 1085029, 361344136, XLA                           , tksrb271_DSN71 >
+< 1085029, 361509736, Replication                   , 10.114.131.33:MARB027DS >
+ 
+DSN: MARB028
+< 1091268, 176493120, Checkpoint                    , marb028ds.ds1 >
+< 1091282, 58106344, Checkpoint                    , marb028ds.ds0 >
+< 1091290, 332011752, XLA                           , tksrb271_DSN_TRB72 >
+< 1091290, 349545264, XLA                           , tksrb271_DSN72 >
+< 1091290, 350296072, Replication                   , 10.114.131.34:MARB028DS >
+ 
+DSN: MARB029
+< 1020488, 416109048, Checkpoint                    , marb029ds.ds1 >
+< 1020501, 78962640, Checkpoint                    , marb029ds.ds0 >
+< 1020506, 3836944, XLA                           , tksrb271_DSN73 >
+< 1020506, 3836944, XLA                           , tksrb271_DSN_TRB73 >
+< 1020506, 27395832, Replication                   , 10.114.131.33:MARB029DS >
+ 
+DSN: MARB032
+< 1007663, 466588064, Checkpoint                    , marb032ds.ds0 >
+< 1007676, 45384584, Checkpoint                    , marb032ds.ds1 >
+< 1007678, 140509888, XLA                           , tksrb271_DSN76 >
+< 1007678, 140509888, XLA                           , tksrb271_DSN_TRB76 >
+< 1007678, 169316984, Replication                   , 10.114.131.34:MARB032DS >
+================= ocsrbmkpapp15 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB029
+< 1069229, 310872944, Checkpoint                    , marb029ds.ds1 >
+< 1069242, 450484736, Checkpoint                    , marb029ds.ds0 >
+< 1069249, 367995768, XLA                           , tksrb291_DSN_TRB73 >
+< 1069249, 375514408, XLA                           , tksrb291_DSN73 >
+< 1069249, 376166336, Replication                   , 10.114.131.32:MARB029DS >
+ 
+DSN: MARB030
+< 1068403, 479925272, Checkpoint                    , marb030ds.ds0 >
+< 1068416, 131540176, Checkpoint                    , marb030ds.ds1 >
+< 1068419, 434585816, XLA                           , tksrb291_DSN_TRB74 >
+< 1068419, 448712872, XLA                           , tksrb291_DSN74 >
+< 1068419, 449310032, Replication                   , 10.114.131.34:MARB030DS >
+ 
+DSN: MARB027
+< 1035512, 275306136, Checkpoint                    , marb027ds.ds1 >
+< 1035525, 68414544, Checkpoint                    , marb027ds.ds0 >
+< 1035529, 512075672, XLA                           , tksrb291_DSN71 >
+< 1035529, 512075672, XLA                           , tksrb291_DSN_TRB71 >
+< 1035530, 29685256, Replication                   , 10.114.131.32:MARB027DS >
+ 
+DSN: MARB031
+< 1017733, 259991624, Checkpoint                    , marb031ds.ds1 >
+< 1017746, 26895232, Checkpoint                    , marb031ds.ds0 >
+< 1017749, 61156568, XLA                           , tksrb291_DSN75 >
+< 1017749, 61156568, XLA                           , tksrb291_DSN_TRB75 >
+< 1017749, 94385512, Replication                   , 10.114.131.34:MARB031DS >
+================= ocsrbmkpapp16 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB031
+< 1074088, 298573648, Checkpoint                    , marb031ds.ds1 >
+< 1074101, 523142728, Checkpoint                    , marb031ds.ds0 >
+< 1074104, 237876176, XLA                           , tksrb311_DSN_TRB75 >
+< 1074104, 250303840, Replication                   , 10.114.131.33:MARB031DS >
+< 1074104, 250316600, XLA                           , tksrb311_DSN75 >
+ 
+DSN: MARB032
+< 1060726, 433460456, Checkpoint                    , marb032ds.ds0 >
+< 1060739, 466842872, Checkpoint                    , marb032ds.ds1 >
+< 1060752, 260542640, XLA                           , tksrb311_DSN_TRB76 >
+< 1060752, 263127608, Replication                   , 10.114.131.32:MARB032DS >
+< 1060752, 263127608, XLA                           , tksrb311_DSN76 >
+ 
+DSN: MARB028
+< 1039941, 156049488, Checkpoint                    , marb028ds.ds0 >
+< 1039954, 287299432, Checkpoint                    , marb028ds.ds1 >
+< 1039967, 328203840, XLA                           , tksrb311_DSN72 >
+< 1039967, 328203840, XLA                           , tksrb311_DSN_TRB72 >
+< 1039967, 363723960, Replication                   , 10.114.131.32:MARB028DS >
+ 
+DSN: MARB030
+< 1020247, 84381152, Checkpoint                    , marb030ds.ds0 >
+< 1020259, 1206784, Checkpoint                    , marb030ds.ds1 >
+< 1020271, 363983776, XLA                           , tksrb311_DSN74 >
+< 1020271, 363983776, XLA                           , tksrb311_DSN_TRB74 >
+< 1020271, 397480480, Replication                   , 10.114.131.33:MARB030DS >
+================= ocsrbmkpapp17 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB033
+< 1052296, 374527856, Checkpoint                    , marb033ds.ds0 >
+< 1052310, 71081416, Checkpoint                    , marb033ds.ds1 >
+< 1052321, 138089400, XLA                           , tksrb331_DSN_TRB77 >
+< 1052321, 146610288, XLA                           , tksrb331_DSN77 >
+< 1052321, 147483848, Replication                   , 10.114.131.36:MARB033DS >
+ 
+DSN: MARB034
+< 1071614, 119806576, Checkpoint                    , marb034ds.ds1 >
+< 1071627, 320430760, Checkpoint                    , marb034ds.ds0 >
+< 1071637, 29209840, XLA                           , tksrb331_DSN_TRB78 >
+< 1071637, 36040824, XLA                           , tksrb331_DSN78 >
+< 1071637, 36435048, Replication                   , 10.114.131.37:MARB034DS >
+ 
+DSN: MARB035
+< 1021267, 190331240, Checkpoint                    , marb035ds.ds1 >
+< 1021279, 76360312, Checkpoint                    , marb035ds.ds0 >
+< 1021285, 450556576, XLA                           , tksrb331_DSN79 >
+< 1021285, 450556576, XLA                           , tksrb331_DSN_TRB79 >
+< 1021285, 483777280, Replication                   , 10.114.131.36:MARB035DS >
+ 
+DSN: MARB038
+< 1005171, 378090640, Checkpoint                    , marb038ds.ds1 >
+< 1005183, 329312168, Checkpoint                    , marb038ds.ds0 >
+< 1005185, 234830216, XLA                           , tksrb331_DSN82 >
+< 1005185, 234830216, XLA                           , tksrb331_DSN_TRB82 >
+< 1005185, 267303960, Replication                   , 10.114.131.37:MARB038DS >
+================= ocsrbmkpapp18 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB035
+< 1075142, 87772064, Checkpoint                    , marb035ds.ds0 >
+< 1075154, 431903864, Checkpoint                    , marb035ds.ds1 >
+< 1075157, 72411464, XLA                           , tksrb351_DSN_TRB79 >
+< 1075157, 80260584, XLA                           , tksrb351_DSN79 >
+< 1075157, 80537608, Replication                   , 10.114.131.35:MARB035DS >
+ 
+DSN: MARB036
+< 1058480, 122809984, Checkpoint                    , marb036ds.ds1 >
+< 1058493, 31401776, Checkpoint                    , marb036ds.ds0 >
+< 1058506, 25444464, XLA                           , tksrb351_DSN_TRB80 >
+< 1058506, 27808960, Replication                   , 10.114.131.37:MARB036DS >
+< 1058506, 28256640, XLA                           , tksrb351_DSN80 >
+ 
+DSN: MARB033
+< 1003989, 260584872, Checkpoint                    , marb033ds.ds1 >
+< 1004001, 519713200, Checkpoint                    , marb033ds.ds0 >
+< 1004006, 263743960, XLA                           , tksrb351_DSN77 >
+< 1004006, 263743960, XLA                           , tksrb351_DSN_TRB77 >
+< 1004006, 293686768, Replication                   , 10.114.131.35:MARB033DS >
+ 
+DSN: MARB037
+< 985781, 443451040, Checkpoint                    , marb037ds.ds0 >
+< 985793, 449040184, Checkpoint                    , marb037ds.ds1 >
+< 985805, 422851928, XLA                           , tksrb351_DSN81 >
+< 985805, 422851928, XLA                           , tksrb351_DSN_TRB81 >
+< 985805, 447551888, Replication                   , 10.114.131.37:MARB037DS >
+================= ocsrbmkpapp19 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB037
+< 1032563, 253658776, Checkpoint                    , marb037ds.ds0 >
+< 1032576, 138778240, Checkpoint                    , marb037ds.ds1 >
+< 1032578, 274329920, XLA                           , tksrb371_DSN_TRB81 >
+< 1032578, 305440016, Replication                   , 10.114.131.36:MARB037DS >
+< 1032578, 305466384, XLA                           , tksrb371_DSN81 >
+ 
+DSN: MARB038
+< 1055290, 22006672, Checkpoint                    , marb038ds.ds1 >
+< 1055302, 389416272, Checkpoint                    , marb038ds.ds0 >
+< 1055314, 495716640, XLA                           , tksrb371_DSN_TRB82 >
+< 1055314, 501921472, Replication                   , 10.114.131.35:MARB038DS >
+< 1055314, 502134328, XLA                           , tksrb371_DSN82 >
+ 
+DSN: MARB034
+< 1017907, 327587784, Checkpoint                    , marb034ds.ds1 >
+< 1017920, 87347808, Checkpoint                    , marb034ds.ds0 >
+< 1017922, 112307296, XLA                           , tksrb371_DSN78 >
+< 1017922, 112307296, XLA                           , tksrb371_DSN_TRB78 >
+< 1017922, 154324992, Replication                   , 10.114.131.35:MARB034DS >
+ 
+DSN: MARB036
+< 1002725, 46826688, Checkpoint                    , marb036ds.ds0 >
+< 1002737, 107294000, Checkpoint                    , marb036ds.ds1 >
+< 1002738, 519384936, XLA                           , tksrb371_DSN80 >
+< 1002738, 519384936, XLA                           , tksrb371_DSN_TRB80 >
+< 1002739, 20914848, Replication                   , 10.114.131.36:MARB036DS >
+================= ocsrbmkpapp20 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB039
+< 1014446, 124541280, Checkpoint                    , marb039ds.ds1 >
+< 1014458, 346326168, Checkpoint                    , marb039ds.ds0 >
+< 1014468, 500793728, XLA                           , tksrb391_DSN_TRB83 >
+< 1014468, 516060912, Replication                   , 10.114.131.39:MARB039DS >
+< 1014468, 516142784, XLA                           , tksrb391_DSN83 >
+ 
+DSN: MARB040
+< 1035317, 124101712, Checkpoint                    , marb040ds.ds0 >
+< 1035329, 126959872, Checkpoint                    , marb040ds.ds1 >
+< 1035337, 492164128, XLA                           , tksrb391_DSN84 >
+< 1035337, 492340936, XLA                           , tksrb391_DSN_TRB84 >
+< 1035337, 492795544, Replication                   , 10.114.131.40:MARB040DS >
+ 
+DSN: MARB044
+< 1015568, 344132368, Checkpoint                    , marb044ds.ds1 >
+< 1015580, 359077232, Checkpoint                    , marb044ds.ds0 >
+< 1015585, 284633096, XLA                           , tksrb391_DSN88 >
+< 1015585, 284633096, XLA                           , tksrb391_DSN_TRB88 >
+< 1015585, 327032640, Replication                   , 10.114.131.40:MARB044DS >
+ 
+DSN: MARB041
+< 970884, 193397696, Checkpoint                    , marb041ds.ds1 >
+< 970896, 24315320, Checkpoint                    , marb041ds.ds0 >
+< 970899, 399877520, XLA                           , tksrb391_DSN85 >
+< 970899, 399877520, XLA                           , tksrb391_DSN_TRB85 >
+< 970899, 428456704, Replication                   , 10.114.131.39:MARB041DS >
+================= ocsrbmkpapp21 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB041
+< 1023315, 289663264, Checkpoint                    , marb041ds.ds0 >
+< 1023328, 28863112, Checkpoint                    , marb041ds.ds1 >
+< 1023334, 323732608, XLA                           , tksrb411_DSN_TRB85 >
+< 1023334, 324917520, XLA                           , tksrb411_DSN85 >
+< 1023334, 325524392, Replication                   , 10.114.131.38:MARB041DS >
+ 
+DSN: MARB042
+< 1065695, 20401032, Checkpoint                    , marb042ds.ds0 >
+< 1065707, 430521096, Checkpoint                    , marb042ds.ds1 >
+< 1065713, 245445248, XLA                           , tksrb411_DSN_TRB86 >
+< 1065713, 254663888, Replication                   , 10.114.131.40:MARB042DS >
+< 1065713, 254795952, XLA                           , tksrb411_DSN86 >
+ 
+DSN: MARB039
+< 965348, 436638712, Checkpoint                    , marb039ds.ds1 >
+< 965360, 65415032, Checkpoint                    , marb039ds.ds0 >
+< 965364, 119900672, XLA                           , tksrb411_DSN83 >
+< 965364, 119900672, XLA                           , tksrb411_DSN_TRB83 >
+< 965364, 147757464, Replication                   , 10.114.131.38:MARB039DS >
+ 
+DSN: MARB043
+< 1023480, 180091896, Checkpoint                    , marb043ds.ds0 >
+< 1023492, 28129880, Checkpoint                    , marb043ds.ds1 >
+< 1023497, 6661128, XLA                           , tksrb411_DSN87 >
+< 1023497, 6661128, XLA                           , tksrb411_DSN_TRB87 >
+< 1023497, 36752928, Replication                   , 10.114.131.40:MARB043DS >
+================= ocsrbmkpapp22 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB043
+< 1076664, 439443064, Checkpoint                    , marb043ds.ds1 >
+< 1076677, 202225232, Checkpoint                    , marb043ds.ds0 >
+< 1076679, 366763144, XLA                           , tksrb431_DSN_TRB87 >
+< 1076679, 367827512, Replication                   , 10.114.131.39:MARB043DS >
+< 1076679, 368019176, XLA                           , tksrb431_DSN87 >
+ 
+DSN: MARB044
+< 1072463, 401835048, Checkpoint                    , marb044ds.ds1 >
+< 1072476, 486681496, Checkpoint                    , marb044ds.ds0 >
+< 1072490, 257878768, XLA                           , tksrb431_DSN_TRB88 >
+< 1072490, 264525928, Replication                   , 10.114.131.38:MARB044DS >
+< 1072490, 264627312, XLA                           , tksrb431_DSN88 >
+ 
+DSN: MARB042
+< 1010915, 183664960, Checkpoint                    , marb042ds.ds1 >
+< 1010927, 169319560, Checkpoint                    , marb042ds.ds0 >
+< 1010935, 43728064, XLA                           , tksrb431_DSN86 >
+< 1010935, 43728064, XLA                           , tksrb431_DSN_TRB86 >
+< 1010935, 83554048, Replication                   , 10.114.131.39:MARB042DS >
+ 
+DSN: MARB040
+< 984025, 183670344, Checkpoint                    , marb040ds.ds1 >
+< 984036, 242027736, Checkpoint                    , marb040ds.ds0 >
+< 984041, 260609016, XLA                           , tksrb431_DSN84 >
+< 984041, 260609016, XLA                           , tksrb431_DSN_TRB84 >
+< 984041, 284070520, Replication                   , 10.114.131.38:MARB040DS >
+================= ocsrbmkpapp23 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB045
+< 892571, 108215008, Checkpoint                    , marb045ds.ds1 >
+< 892583, 9068272, Checkpoint                    , marb045ds.ds0 >
+< 892592, 478132752, XLA                           , tksrb451_DSN_TRB289 >
+< 892592, 489823848, Replication                   , 10.114.131.31:MARB045DS >
+< 892592, 489927064, XLA                           , tksrb451_DSN289 >
+ 
+DSN: MARB046
+< 892782, 366534448, Checkpoint                    , marb046ds.ds0 >
+< 892794, 152148144, Checkpoint                    , marb046ds.ds1 >
+< 892802, 452520368, XLA                           , tksrb451_DSN_TRB290 >
+< 892802, 457317704, XLA                           , tksrb451_DSN290 >
+< 892802, 457859144, Replication                   , 10.114.131.92:MARB046DS >
+ 
+DSN: MARB025
+< 1026084, 333970016, Checkpoint                    , marb025ds.ds0 >
+< 1026098, 30175760, Checkpoint                    , marb025ds.ds1 >
+< 1026103, 247929800, XLA                           , tksrb451_DSN69 >
+< 1026103, 247929800, XLA                           , tksrb451_DSN_TRB69 >
+< 1026103, 282358624, Replication                   , 10.114.131.31:MARB025DS >
+ 
+DSN: MARB047
+< 835197, 360311704, Checkpoint                    , marb047ds.ds0 >
+< 835208, 88968256, Checkpoint                    , marb047ds.ds1 >
+< 835213, 372942664, XLA                           , tksrb451_DSN291 >
+< 835213, 372942664, XLA                           , tksrb451_DSN_TRB291 >
+< 835213, 393805256, Replication                   , 10.114.131.92:MARB047DS >
+================= ocsrbmkpapp24 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB047
+< 884457, 340554280, Checkpoint                    , marb047ds.ds0 >
+< 884468, 469865000, Checkpoint                    , marb047ds.ds1 >
+< 884474, 338744192, XLA                           , tksrb471_DSN_TRB291 >
+< 884474, 347182312, XLA                           , tksrb471_DSN291 >
+< 884474, 347756504, Replication                   , 10.114.131.91:MARB047DS >
+ 
+DSN: MARB048
+< 895329, 20978856, Checkpoint                    , marb048ds.ds0 >
+< 895340, 316344352, Checkpoint                    , marb048ds.ds1 >
+< 895345, 131180472, XLA                           , tksrb471_DSN_TRB292 >
+< 895345, 136571768, XLA                           , tksrb471_DSN292 >
+< 895345, 137161168, Replication                   , 10.114.131.31:MARB048DS >
+ 
+DSN: MARB026
+< 1011862, 257639520, Checkpoint                    , marb026ds.ds1 >
+< 1011874, 299898072, Checkpoint                    , marb026ds.ds0 >
+< 1011876, 452117232, XLA                           , tksrb471_DSN70 >
+< 1011876, 452117232, XLA                           , tksrb471_DSN_TRB70 >
+< 1011876, 484266416, Replication                   , 10.114.131.31:MARB026DS >
+ 
+DSN: MARB046
+< 847906, 183291040, Checkpoint                    , marb046ds.ds0 >
+< 847917, 107277056, Checkpoint                    , marb046ds.ds1 >
+< 847928, 188344968, XLA                           , tksrb471_DSN290 >
+< 847928, 188344968, XLA                           , tksrb471_DSN_TRB290 >
+< 847928, 209820072, Replication                   , 10.114.131.91:MARB046DS >
+================= ocsrbmkpapp25 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB049
+< 901316, 173744504, Checkpoint                    , marb049ds.ds0 >
+< 901328, 302741600, Checkpoint                    , marb049ds.ds1 >
+< 901330, 427537976, XLA                           , tksrb491_DSN_TRB293 >
+< 901330, 439183848, XLA                           , tksrb491_DSN293 >
+< 901330, 439206208, Replication                   , 10.114.131.94:MARB049DS >
+ 
+DSN: MARB050
+< 898929, 288259304, Checkpoint                    , marb050ds.ds1 >
+< 898941, 478843112, Checkpoint                    , marb050ds.ds0 >
+< 898954, 179373456, XLA                           , tksrb491_DSN_TRB294 >
+< 898954, 190967488, XLA                           , tksrb491_DSN294 >
+< 898954, 191757744, Replication                   , 10.114.131.95:MARB050DS >
+ 
+DSN: MARB051
+< 849764, 125957856, Checkpoint                    , marb051ds.ds0 >
+< 849775, 171379336, Checkpoint                    , marb051ds.ds1 >
+< 849776, 509171056, XLA                           , tksrb491_DSN295 >
+< 849776, 509171056, XLA                           , tksrb491_DSN_TRB295 >
+< 849777, 26949672, Replication                   , 10.114.131.94:MARB051DS >
+ 
+DSN: MARB054
+< 855039, 98369960, Checkpoint                    , marb054ds.ds0 >
+< 855050, 320080952, Checkpoint                    , marb054ds.ds1 >
+< 855052, 35148792, XLA                           , tksrb491_DSN298 >
+< 855052, 35148792, XLA                           , tksrb491_DSN_TRB298 >
+< 855052, 68003112, Replication                   , 10.114.131.95:MARB054DS >
+================= ocsrbmkpapp26 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB051
+< 900500, 425148184, Checkpoint                    , marb051ds.ds1 >
+< 900512, 362035552, Checkpoint                    , marb051ds.ds0 >
+< 900522, 436870056, XLA                           , tksrb511_DSN_TRB295 >
+< 900522, 449696152, XLA                           , tksrb511_DSN295 >
+< 900522, 451023784, Replication                   , 10.114.131.93:MARB051DS >
+ 
+DSN: MARB052
+< 907351, 443723448, Checkpoint                    , marb052ds.ds0 >
+< 907363, 371097896, Checkpoint                    , marb052ds.ds1 >
+< 907372, 281268088, XLA                           , tksrb511_DSN_TRB296 >
+< 907372, 292166096, XLA                           , tksrb511_DSN296 >
+< 907372, 293276416, Replication                   , 10.114.131.95:MARB052DS >
+ 
+DSN: MARB049
+< 851845, 480292272, Checkpoint                    , marb049ds.ds1 >
+< 851857, 175291408, Checkpoint                    , marb049ds.ds0 >
+< 851859, 244752720, XLA                           , tksrb511_DSN293 >
+< 851859, 244752720, XLA                           , tksrb511_DSN_TRB293 >
+< 851859, 271756144, Replication                   , 10.114.131.93:MARB049DS >
+ 
+DSN: MARB053
+< 862047, 244507840, Checkpoint                    , marb053ds.ds1 >
+< 862059, 438698464, Checkpoint                    , marb053ds.ds0 >
+< 862067, 169933544, XLA                           , tksrb511_DSN297 >
+< 862067, 169933544, XLA                           , tksrb511_DSN_TRB297 >
+< 862067, 205078248, Replication                   , 10.114.131.95:MARB053DS >
+================= ocsrbmkpapp27 Wed May 18 13:05:13 wib 2016 =================
+ 
+DSN: MARB050
+< 850910, 112986392, Checkpoint                    , marb050ds.ds0 >
+< 850921, 221143688, Checkpoint                    , marb050ds.ds1 >
+< 850922, 251058176, XLA                           , tksrb531_DSN294 >
+< 850922, 251058176, XLA                           , tksrb531_DSN_TRB294 >
+< 850922, 279934144, Replication                   , 10.114.131.93:MARB050DS >
+ 
+DSN: MARB052
+< 861441, 301134512, Checkpoint                    , marb052ds.ds1 >
+< 861452, 335431264, Checkpoint                    , marb052ds.ds0 >
+< 861458, 131124720, XLA                           , tksrb531_DSN296 >
+< 861458, 131124720, XLA                           , tksrb531_DSN_TRB296 >
+< 861458, 160813576, Replication                   , 10.114.131.94:MARB052DS >
+ 
+DSN: MARB053
+< 909573, 412896560, Checkpoint                    , marb053ds.ds0 >
+< 909586, 466907456, Checkpoint                    , marb053ds.ds1 >
+< 909593, 411566464, XLA                           , tksrb531_DSN_TRB297 >
+< 909593, 418423512, XLA                           , tksrb531_DSN297 >
+< 909593, 418617496, Replication                   , 10.114.131.94:MARB053DS >
+ 
+DSN: MARB054
+< 899847, 93557976, Checkpoint                    , marb054ds.ds1 >
+< 899859, 259269416, Checkpoint                    , marb054ds.ds0 >
+< 899864, 196287728, XLA                           , tksrb531_DSN_TRB298 >
+< 899864, 205243232, XLA                           , tksrb531_DSN298 >
+< 899864, 206082864, Replication                   , 10.114.131.93:MARB054DS >
